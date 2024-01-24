@@ -27,14 +27,25 @@ def create_table_from_csv(connection, csv_file_path, table_name):
     # print('column_names: ', column_names)
 
     # Create DuckDB table from the DataFrame
-    df.to_sql(table_name, connection, index=False, if_exists='replace',)
+    # df.to_sql(table_name, connection, index=False, if_exists='replace',columns=columns)
+
+
+    #  Create DuckDB table with specified column names
+    if columns is not None:
+        column_definitions = ', '.join(f'{col} VARCHAR' for col in columns)
+        create_table_query = f'CREATE TABLE {table_name} ({column_definitions})'
+        connection.execute(create_table_query)
+
+    # Insert data into the DuckDB table
+    df.to_sql(table_name, connection, index=False, if_exists='replace')
+
 
 # Function to perform a search operation on the DuckDB table
 def search_table(connection, table_name, column_name, search_value):
-    query = f'SELECT * FROM {table_name} where {column_name}="{search_value}"'
+    # query = f'SELECT * FROM {table_name} where "{column_name}"="{search_value}"'
     # print('query: ', query)
 
-    # query = f"PRAGMA table_info({table_name})"  #getting column name
+    query = f"PRAGMA table_info({table_name})"  #getting column name
 
     # query = f"SELECT * FROM {table_name}"
     # print('query: ', query)
@@ -47,10 +58,11 @@ def search_table(connection, table_name, column_name, search_value):
 con = duckdb.connect(database=':memory:')
 
 # Define CSV file path, table name, and search criteria
-csv_file_path = 'your_output.csv'  # Replace with your CSV file path
+csv_file_path = 'your_output_neww.csv'  # Replace with your CSV file path
 table_name = 'temp_table'         # Replace with your desired table name
-search_column = '{http://www.sitemaps.org/schemas/sitemap/0.9}lastmod'     # Replace with the column to search
+search_column = 'lastmod'     # Replace with the column to search
 search_value = '2023-10-18'    # Replace with the value to search for
+columns = ["loc","lastmod","changefreq","priority"]
 
 # Step 1: Create DuckDB table from CSV
 create_table_from_csv(con, csv_file_path, table_name)
