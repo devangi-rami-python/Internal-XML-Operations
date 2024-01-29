@@ -42,10 +42,13 @@ def create_table_from_csv(connection, csv_file_path, table_name):
 
 # Function to perform a search operation on the DuckDB table
 def search_table(connection, table_name, column_name, search_value):
-    # query = f'SELECT * FROM {table_name} where "{column_name}"="{search_value}"'
+    search_value = 0.800000011920929
+    query = f'SELECT * FROM {table_name} where "{column_name}"="{search_value}"'
     # print('query: ', query)
+    column_name = "priority"
+    # query = f'SELECT {column_name} FROM {table_name}'
 
-    query = f"PRAGMA table_info({table_name})"  #getting column name
+    # query = f"PRAGMA table_info({table_name})"  #getting column name
 
     # query = f"SELECT * FROM {table_name}"
     # print('query: ', query)
