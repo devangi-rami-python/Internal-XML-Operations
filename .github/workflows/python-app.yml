@@ -3,9 +3,15 @@ name: Manual Python Job
 on:
   workflow_dispatch:
     inputs:
-      message:
-        description: 'Optional message'
-        required: false
+      message1:
+        description: 'old_date'
+        required: true
+      message2:
+        description: 'new_date'
+        required: true
+      message3:
+        description: 'find_date'
+        required: true
 
 jobs:
   run_python_script:
@@ -21,4 +27,4 @@ jobs:
           python-version: '3.x'  # Specify your Python version
 
       - name: Run Python Script
-        run: python test_flow.py ${{ github.event.inputs.message }}
+        run: python get_xml_diffrence.py --old_date ${{ github.event.inputs.message1 }} --new_date ${{ github.event.inputs.message2 }} --find_date ${{ github.event.inputs.message3 }}
