@@ -1,0 +1,17 @@
+                                                           loc    lastmod changefreq  priority loc_2 lastmod_2 changefreq_2  priority_2
+               https://www.scnsoft.com/services/crm/consulting 2024-02-01     weekly       0.8  None      None         None         NaN
+https://www.scnsoft.com/services/data-science/machine-learning 2024-02-01     weekly       0.8  None      None         None         NaN
+                 https://www.scnsoft.com/application/migration 2024-02-01     weekly       0.8  None      None         None         NaN
+                           https://www.scnsoft.com/banking/crm 2024-02-01     weekly       0.8  None      None         None         NaN
+  https://www.scnsoft.com/security/penetration-testing/network 2024-02-01     weekly       0.8  None      None         None         NaN
+               https://www.scnsoft.com/artificial-intelligence 2024-02-01    monthly       0.8  None      None         None         NaN
+            https://www.scnsoft.com/cloud/migration/consulting 2024-02-01     weekly       0.8  None      None         None         NaN
+                         https://www.scnsoft.com/aws/migration 2024-02-01    monthly       0.8  None      None         None         NaN
+             https://www.scnsoft.com/microsoft-azure/migration 2024-02-01     weekly       0.8  None      None         None         NaN
+        https://www.scnsoft.com/application/migration/services 2024-02-01     weekly       0.8  None      None         None         NaN
+      https://www.scnsoft.com/security/assessment/applications 2024-02-01     weekly       0.8  None      None         None         NaN
+           https://www.scnsoft.com/healthcare/software-testing 2024-02-01    monthly       0.8  None      None         None         NaN
+            https://www.scnsoft.com/insurance/software-testing 2024-02-01    monthly       0.8  None      None         None         NaN
+                 https://www.scnsoft.com/healthcare/it-support 2024-02-01    monthly       0.8  None      None         None         NaN
+                            https://www.scnsoft.com/ar/lending 2024-02-01     weekly       0.8  None      None         None         NaN
+https://www.scnsoft.com/healthcare/it-outsourcing/configurator 2024-02-01    monthly       0.8  None      None         None         NaN
