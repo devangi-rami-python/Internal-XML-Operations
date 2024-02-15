@@ -21,4 +21,4 @@ jobs:
           python-version: '3.x'  # Specify your Python version
 
       - name: Run Python Script
-        run: python get_xml_diffrence.py ${{ github.event.inputs.message }}
+        run: python test_flow.py ${{ github.event.inputs.message }}
