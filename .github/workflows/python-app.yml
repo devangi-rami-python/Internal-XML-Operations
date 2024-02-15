@@ -1,4 +1,4 @@
-name: Manual Python Job
+name: Manual Python Job - XML
 
 on:
   workflow_dispatch:
