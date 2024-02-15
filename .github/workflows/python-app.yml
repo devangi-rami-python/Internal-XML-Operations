@@ -28,7 +28,6 @@ jobs:
           
       - name: Install dependencies
         run: pip install -r requirements.txt
-        working-directory: requirements.txt
 
       - name: Run Python Script
         run: python get_xml_diffrence.py --old_date ${{ github.event.inputs.message1 }} --new_date ${{ github.event.inputs.message2 }} --find_date ${{ github.event.inputs.message3 }}
