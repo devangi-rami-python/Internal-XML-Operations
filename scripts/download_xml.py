@@ -21,7 +21,8 @@ def download_current_date_xml():
         # Write the XML content to a local file
         with open(local_file_path, "wb") as f:
             f.write(xml_content)
-        
+        print("XML file saved successfully at -->:", os.path.abspath(local_file_path))  # Print absolute path
+
         print("XML file saved successfully.")
     else:
         print(f"Failed to fetch XML file. Status code: {response.status_code}")
