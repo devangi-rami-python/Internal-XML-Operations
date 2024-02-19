@@ -26,7 +26,9 @@ def download_current_date_xml():
             f.write(xml_content)
         print("XML file saved successfully at -->:", os.path.abspath(local_file_path))  # Print absolute path
 
-       
+        subprocess.run(["git", "config", "user.email", "devangi.rami@bacancy.com"])
+        subprocess.run(["git", "config", "user.name", "Devangi Rami"])
+
         # Change directory to the root of the Git repository
         os.chdir("/home/runner/work/XML-Operations/XML-Operations/")
         
