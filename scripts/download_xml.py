@@ -1,6 +1,8 @@
 import requests
 from datetime import datetime
 import os
+import subprocess
+
 
 def download_current_date_xml():
     current_date = datetime.now().strftime("%Y-%m-%d")
