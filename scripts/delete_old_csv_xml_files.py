@@ -31,7 +31,8 @@ def remove_old_files():
                 os.chdir("/home/runner/work/XML-Operations/XML-Operations/")
                 
                 # Stage the new XML file
-                subprocess.run(["git", "add", local_file_path])
+                # Stage all changes (including deletions)
+                subprocess.run(["git", "add", "."])
                 
                 # Commit the changes
                 subprocess.run(["git", "commit", "-m", f"DELETE XML file for {file}"])
