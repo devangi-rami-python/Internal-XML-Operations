@@ -24,7 +24,20 @@ def download_current_date_xml():
             f.write(xml_content)
         print("XML file saved successfully at -->:", os.path.abspath(local_file_path))  # Print absolute path
 
+       
+        # Change directory to the root of the Git repository
+        os.chdir("/home/runner/work/XML-Operations/XML-Operations/")
+        
+        # Stage the new XML file
+        subprocess.run(["git", "add", local_file_path])
+        
+        # Commit the changes
+        subprocess.run(["git", "commit", "-m", f"Add XML file for {current_date}"])
+        
+        # Push the changes back to the repository
+        subprocess.run(["git", "push"])
         print("XML file saved successfully.")
+
     else:
         print(f"Failed to fetch XML file. Status code: {response.status_code}")
 
