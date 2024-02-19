@@ -28,6 +28,4 @@ jobs:
           pip install -r requirements.txt  # If you have any dependencies, replace with your requirements file
 
       - name: Run Python script
-        env:
-          MY_PAT: ${{ secrets.NEW_PAT_SECRET_NAME }}  # Update to the new secret name
         run: python scripts/download_xml.py  # Replace with the path to your Python script
