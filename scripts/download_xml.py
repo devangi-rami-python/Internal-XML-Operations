@@ -43,6 +43,7 @@ def download_current_date_xml():
         print("XML file saved successfully.")
 
     else:
+        print("response",response)
         print(f"Failed to fetch XML file. Status code: {response.status_code}")
 
 
