@@ -22,6 +22,22 @@ def remove_old_files():
                 # Delete the file
                 os.remove(os.path.join(directory, file))
                 print(f"Deleted file: {file}")
+
+                subprocess.run(["git", "config", "user.email", "devangi.rami@bacancy.com"])
+                subprocess.run(["git", "config", "user.name", "Devangi Rami"])
+        
+                # Change directory to the root of the Git repository
+                os.chdir("/home/runner/work/XML-Operations/XML-Operations/")
+                
+                # Stage the new XML file
+                subprocess.run(["git", "add", local_file_path])
+                
+                # Commit the changes
+                subprocess.run(["git", "commit", "-m", f"DELETE XML file for {file}"])
+                
+                # Push the changes back to the repository
+                subprocess.run(["git", "push"])
+                
         except ValueError:
             # If the filename doesn't match the date format, continue to the next file
             continue
