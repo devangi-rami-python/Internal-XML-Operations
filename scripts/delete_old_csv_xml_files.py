@@ -28,7 +28,7 @@ def remove_old_files():
                 subprocess.run(["git", "config", "user.name", "Devangi Rami"])
         
                 # Change directory to the root of the Git repository
-                os.chdir("/home/runner/work/XML-Operations/XML-Operations/")
+                os.chdir("/home/runner/work/Internal-XML-Operations/Internal-XML-Operations/")
                 
                 # Stage the new XML file
                 # Stage all changes (including deletions)
