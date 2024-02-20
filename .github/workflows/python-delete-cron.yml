@@ -1,4 +1,4 @@
-name: Daily Python Scheduler(12:50AM) - Delete week-before XML
+name: Delete week-before XML - Daily Scheduler(12:50AM)
 
 on:
   schedule:
