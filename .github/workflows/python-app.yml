@@ -18,6 +18,12 @@ jobs:
   run_python_script:
     name: Run - Get XML Diffrece file
     runs-on: ubuntu-latest
+
+    permissions:
+      # Give the default GITHUB_TOKEN write permission to commit and push the
+      # added or changed files to the repository.
+      contents: write
+
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v2
