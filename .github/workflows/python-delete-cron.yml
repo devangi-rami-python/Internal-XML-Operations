@@ -1,4 +1,4 @@
-name: Daily Python Script - Delete old XML
+name: Daily Python Scheduler(12:50AM) - Delete week-before XML
 
 on:
   schedule:
