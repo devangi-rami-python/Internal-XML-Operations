@@ -144,7 +144,7 @@ def main(old_date, new_date, find_date):
         os.chdir("/home/runner/work/Internal-XML-Operations/Internal-XML-Operations/")
         
         # Stage the new XML file
-        subprocess.run(["git", "add", "output.txt"])
+        subprocess.run(["git", "add", "."])
         
         # Commit the changes
         subprocess.run(["git", "commit", "-m", f"Saved output.txt"])
