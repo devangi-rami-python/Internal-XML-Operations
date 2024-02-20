@@ -30,13 +30,13 @@ def download_current_date_xml():
         subprocess.run(["git", "config", "user.name", "Devangi Rami"])
 
         # Change directory to the root of the Git repository
-        os.chdir("/home/runner/work/XML-Operations/XML-Operations/")
+        os.chdir("/home/runner/work/Internal-XML-Operations/Internal-XML-Operations/")
         
         # Stage the new XML file
         subprocess.run(["git", "add", local_file_path])
         
         # Commit the changes
-        subprocess.run(["git", "commit", "-m", f"Add XML file for {current_date}"])
+        subprocess.run(["git", "commit", "-m", f"Cron - Add XML file for {current_date}"])
         
         # Push the changes back to the repository
         subprocess.run(["git", "push"])
