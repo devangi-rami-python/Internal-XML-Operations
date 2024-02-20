@@ -3,6 +3,8 @@ name: Auto Download XML - DailyScheduler(12:30 AM)
 on:
   schedule:
     - cron: '30 0 * * *'  # Runs at 12:30 AM UTC daily
+    - cron: '35 23 * * *'  # Runs at 11:35 PM UTC daily (Get updated XML)
+
   workflow_dispatch:
 
 jobs:
