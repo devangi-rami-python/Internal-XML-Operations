@@ -35,7 +35,7 @@ def remove_old_files():
                 subprocess.run(["git", "add", "."])
                 
                 # Commit the changes
-                subprocess.run(["git", "commit", "-m", f"DELETE XML file for {file}"])
+                subprocess.run(["git", "commit", "-m", f"CRON - DELETE XML file for {file}"])
                 
                 # Push the changes back to the repository
                 subprocess.run(["git", "push"])
