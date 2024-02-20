@@ -1,4 +1,4 @@
-name: Get XML Diffrence - Manual Python Job
+name: Get XML difference - Manual Python Job
 env:
   ACTIONS_STEP_DEBUG: true
 on:
