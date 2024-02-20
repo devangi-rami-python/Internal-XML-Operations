@@ -6,6 +6,7 @@ import os
 import csv
 import xml.etree.ElementTree as ET
 from scripts.download_xml import download_current_date_xml
+import subprocess
 
 def xml_to_csv(xml_file_path=None, csv_name=None):
     try:
@@ -134,6 +135,23 @@ def main(old_date, new_date, find_date):
         ## Step 5: perform query on CSV files with duckDB 
         duckdb_query(csv_file_old_date_path, csv_file_new_date_path,find_date)
         print("Done: Successfully generated output.txt")
+
+        print("Git Push --")
+        subprocess.run(["git", "config", "user.email", "devangi.rami@bacancy.com"])
+        subprocess.run(["git", "config", "user.name", "Devangi Rami"])
+
+        # Change directory to the root of the Git repository
+        os.chdir("/home/runner/work/Internal-XML-Operations/Internal-XML-Operations/")
+        
+        # Stage the new XML file
+        subprocess.run(["git", "add", "output.txt"])
+        
+        # Commit the changes
+        subprocess.run(["git", "commit", "-m", f"Saved output.txt"])
+        
+        # Push the changes back to the repository
+        subprocess.run(["git", "push"])
+        print("Done: Successfully Saved output.txt")
 
     else:
         click.echo("Error: Please provide all 3 parameters : --old_date, --new_date and --find_date")
