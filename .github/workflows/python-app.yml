@@ -43,9 +43,4 @@ jobs:
 
       - name: Run Python Script
         run: python get_xml_diffrence.py --old_date ${{ github.event.inputs.message1 }} --new_date ${{ github.event.inputs.message2 }} --find_date ${{ github.event.inputs.message3 }}
-      
-      - name: Upload Artifact
-        uses: actions/upload-artifact@v2
-        with:
-          name: output-files
-          path: output.txt
+        
