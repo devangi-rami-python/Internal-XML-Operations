@@ -1,4 +1,4 @@
-name: Daily Python Scheduler(12:30 AM) - Auto Download XML
+name: Auto Download XML - DailyScheduler(12:30 AM)
 
 on:
   schedule:
