@@ -140,8 +140,8 @@ def main(old_date, new_date, find_date):
         subprocess.run(["git", "config", "user.email", "devangi.rami@bacancy.com"])
         subprocess.run(["git", "config", "user.name", "Devangi Rami"])
 
-        # Change directory to the root of the Git repository
-        os.chdir("/home/runner/work/Internal-XML-Operations/Internal-XML-Operations/")
+        # # Change directory to the root of the Git repository
+        # os.chdir("/home/runner/work/Internal-XML-Operations/Internal-XML-Operations/")
         
         # Stage the new XML file
         subprocess.run(["git", "add", "."])
