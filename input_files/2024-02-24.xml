@@ -38,7 +38,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/services/software-development</loc>
-    <lastmod>2024-02-21</lastmod>
+    <lastmod>2024-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -776,7 +776,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/services/big-data/hadoop</loc>
-    <lastmod>2023-12-26</lastmod>
+    <lastmod>2024-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1010,13 +1010,13 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/services/it-infrastructure</loc>
-    <lastmod>2023-12-24</lastmod>
+    <lastmod>2024-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/services/it-infrastructure/management</loc>
-    <lastmod>2024-02-21</lastmod>
+    <lastmod>2024-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1244,7 +1244,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/services/security</loc>
-    <lastmod>2024-02-14</lastmod>
+    <lastmod>2024-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1730,7 +1730,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/cloud</loc>
-    <lastmod>2024-02-05</lastmod>
+    <lastmod>2024-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1904,13 +1904,13 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/it-support/help-desk</loc>
-    <lastmod>2024-02-19</lastmod>
+    <lastmod>2024-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/services/it-support/outsourcing</loc>
-    <lastmod>2024-02-19</lastmod>
+    <lastmod>2024-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2012,7 +2012,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/about/terms-of-use</loc>
-    <lastmod>2023-11-09</lastmod>
+    <lastmod>2024-02-23</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3482,7 +3482,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/financial-management/automated-billing-software</loc>
-    <lastmod>2024-01-24</lastmod>
+    <lastmod>2024-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3536,8 +3536,8 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/banking/crm</loc>
-    <lastmod>2024-02-14</lastmod>
-    <changefreq>weekly</changefreq>
+    <lastmod>2024-02-23</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
@@ -4580,7 +4580,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/scm/digital-transformation</loc>
-    <lastmod>2024-02-14</lastmod>
+    <lastmod>2024-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4598,7 +4598,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/analytics/big-data/hadoop-implementation</loc>
-    <lastmod>2024-02-08</lastmod>
+    <lastmod>2024-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4730,7 +4730,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/blockchain/cross-border-payments</loc>
-    <lastmod>2024-02-19</lastmod>
+    <lastmod>2024-02-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5984,7 +5984,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/analytics/big-data/kafka</loc>
-    <lastmod>2024-02-14</lastmod>
+    <lastmod>2024-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6548,7 +6548,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/pricing</loc>
-    <lastmod>2024-01-08</lastmod>
+    <lastmod>2024-02-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6650,7 +6650,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-development/about/how-we-work</loc>
-    <lastmod>2024-01-12</lastmod>
+    <lastmod>2024-02-23</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6734,7 +6734,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/payment</loc>
-    <lastmod>2024-02-19</lastmod>
+    <lastmod>2024-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6932,7 +6932,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/about/company</loc>
-    <lastmod>2024-02-21</lastmod>
+    <lastmod>2024-02-23</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6998,7 +6998,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/about</loc>
-    <lastmod>2024-02-21</lastmod>
+    <lastmod>2024-02-23</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7022,7 +7022,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/about</loc>
-    <lastmod>2024-02-05</lastmod>
+    <lastmod>2024-02-23</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7040,7 +7040,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-testing/about</loc>
-    <lastmod>2024-01-25</lastmod>
+    <lastmod>2024-02-23</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7202,7 +7202,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/finance/pricing</loc>
-    <lastmod>2024-02-22</lastmod>
+    <lastmod>2024-02-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7216,6 +7216,24 @@
     <loc>https://www.scnsoft.com/finance/about/testimonials</loc>
     <lastmod>2024-02-22</lastmod>
     <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/analytics/big-data/kafka/configurator</loc>
+    <lastmod>2024-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/financial-management/automated-billing-software/roi-calculator</loc>
+    <lastmod>2024-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/services/big-data/hadoop/configurator</loc>
+    <lastmod>2024-02-23</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 </urlset>
