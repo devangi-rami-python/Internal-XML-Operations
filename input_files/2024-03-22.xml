@@ -38,7 +38,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/services/software-development</loc>
-    <lastmod>2024-03-17</lastmod>
+    <lastmod>2024-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -752,7 +752,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/services/business-intelligence</loc>
-    <lastmod>2024-03-07</lastmod>
+    <lastmod>2024-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3296,7 +3296,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/services/security/vulnerability-assessment/network</loc>
-    <lastmod>2024-02-20</lastmod>
+    <lastmod>2024-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3692,7 +3692,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/services/hire-startup-developers</loc>
-    <lastmod>2024-03-19</lastmod>
+    <lastmod>2024-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4106,7 +4106,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-testing/qa-process</loc>
-    <lastmod>2023-12-01</lastmod>
+    <lastmod>2024-03-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6860,7 +6860,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/services/security/penetration-testing/blockchain</loc>
-    <lastmod>2024-02-14</lastmod>
+    <lastmod>2024-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6914,7 +6914,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/it-support/enterprise-help-desk</loc>
-    <lastmod>2024-02-26</lastmod>
+    <lastmod>2024-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7046,7 +7046,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/pricing</loc>
-    <lastmod>2024-03-12</lastmod>
+    <lastmod>2024-03-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7250,7 +7250,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/real-estate/analytics</loc>
-    <lastmod>2024-03-15</lastmod>
+    <lastmod>2024-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7400,7 +7400,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/insurance/analytics</loc>
-    <lastmod>2024-03-20</lastmod>
+    <lastmod>2024-03-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7437,6 +7437,12 @@
   <url>
     <loc>https://www.scnsoft.com/services/security/penetration-testing/blockchain/configurator</loc>
     <lastmod>2024-03-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/pricing/data-analytics-bi-configurator</loc>
+    <lastmod>2024-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
