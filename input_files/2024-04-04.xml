@@ -986,13 +986,13 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/services/managed/infrastructure</loc>
-    <lastmod>2024-04-01</lastmod>
+    <lastmod>2024-04-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/services/managed/security</loc>
-    <lastmod>2024-03-29</lastmod>
+    <lastmod>2024-04-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1922,7 +1922,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/it-support/noc</loc>
-    <lastmod>2024-04-01</lastmod>
+    <lastmod>2024-04-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7250,7 +7250,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/real-estate/analytics</loc>
-    <lastmod>2024-04-02</lastmod>
+    <lastmod>2024-04-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7465,6 +7465,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.scnsoft.com/data/analytics/streaming</loc>
+    <lastmod>2024-04-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.scnsoft.com/about/mission</loc>
     <lastmod>2024-03-29</lastmod>
     <changefreq>yearly</changefreq>
@@ -7508,7 +7514,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/scm/order-management-software</loc>
-    <lastmod>2024-03-31</lastmod>
+    <lastmod>2024-04-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
