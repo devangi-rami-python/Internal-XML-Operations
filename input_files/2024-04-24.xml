@@ -908,7 +908,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/services/website-redesign</loc>
-    <lastmod>2023-12-26</lastmod>
+    <lastmod>2024-04-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2546,7 +2546,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-development/mvp</loc>
-    <lastmod>2024-03-28</lastmod>
+    <lastmod>2024-04-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5954,7 +5954,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-development/mvp/services</loc>
-    <lastmod>2024-04-18</lastmod>
+    <lastmod>2024-04-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6176,7 +6176,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/ehr/mental-health</loc>
-    <lastmod>2024-04-09</lastmod>
+    <lastmod>2024-04-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7028,7 +7028,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/pricing</loc>
-    <lastmod>2024-04-18</lastmod>
+    <lastmod>2024-04-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7274,7 +7274,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/finance/about</loc>
-    <lastmod>2024-04-22</lastmod>
+    <lastmod>2024-04-23</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7580,7 +7580,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/in-vitro-diagnostics</loc>
-    <lastmod>2024-04-10</lastmod>
+    <lastmod>2024-04-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7634,7 +7634,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/ehr/implementation/costs</loc>
-    <lastmod>2024-04-22</lastmod>
+    <lastmod>2024-04-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7646,13 +7646,19 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/telemedicine/costs</loc>
-    <lastmod>2024-04-12</lastmod>
+    <lastmod>2024-04-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/blockchain/security/audit/smart-contract</loc>
-    <lastmod>2024-04-22</lastmod>
+    <lastmod>2024-04-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/software-development/nearshore/mexico</loc>
+    <lastmod>2024-04-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
