@@ -722,7 +722,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/data/analytics/consulting</loc>
-    <lastmod>2024-05-13</lastmod>
+    <lastmod>2024-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1562,7 +1562,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/contact-us</loc>
-    <lastmod>2024-05-28</lastmod>
+    <lastmod>2024-05-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1838,7 +1838,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-development/python/developers-for-hire</loc>
-    <lastmod>2024-04-01</lastmod>
+    <lastmod>2024-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4670,7 +4670,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/aws</loc>
-    <lastmod>2024-05-18</lastmod>
+    <lastmod>2024-05-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6002,7 +6002,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare</loc>
-    <lastmod>2024-05-24</lastmod>
+    <lastmod>2024-05-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6092,7 +6092,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/mobile/patient-apps/rehabilitation</loc>
-    <lastmod>2024-02-14</lastmod>
+    <lastmod>2024-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7148,7 +7148,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/finance</loc>
-    <lastmod>2024-05-07</lastmod>
+    <lastmod>2024-05-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7412,7 +7412,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/about/faq</loc>
-    <lastmod>2024-05-14</lastmod>
+    <lastmod>2024-05-29</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7754,7 +7754,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-development</loc>
-    <lastmod>2024-05-20</lastmod>
+    <lastmod>2024-05-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7784,7 +7784,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/insurance/peer-to-peer-insurance-software</loc>
-    <lastmod>2024-05-14</lastmod>
+    <lastmod>2024-05-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7855,9 +7855,21 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.scnsoft.com/contact-us-configurator</loc>
+    <lastmod>2024-05-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.scnsoft.com/healthcare/mobile/how-to-develop-a-healthcare-app</loc>
     <lastmod>2024-05-27</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/insurance/homeowners-insurance-software</loc>
+    <lastmod>2024-05-29</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
@@ -7868,8 +7880,14 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/contact-us-ask-sciencesoft/service-terms</loc>
-    <lastmod>2024-05-28</lastmod>
+    <lastmod>2024-05-29</lastmod>
     <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/ar/software-development/build-a-software</loc>
+    <lastmod>2024-05-29</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 </urlset>
