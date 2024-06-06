@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.scnsoft.com/</loc>
-    <lastmod>2024-05-20</lastmod>
+    <lastmod>2024-06-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
@@ -38,7 +38,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-development/services</loc>
-    <lastmod>2024-05-24</lastmod>
+    <lastmod>2024-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -68,7 +68,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-development/outsourcing/services</loc>
-    <lastmod>2024-05-14</lastmod>
+    <lastmod>2024-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -122,7 +122,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-development/saas</loc>
-    <lastmod>2024-05-10</lastmod>
+    <lastmod>2024-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -158,7 +158,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-development/dotnet</loc>
-    <lastmod>2024-04-30</lastmod>
+    <lastmod>2024-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -668,7 +668,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/services/crm/microsoft-dynamics/customization</loc>
-    <lastmod>2024-05-20</lastmod>
+    <lastmod>2024-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -752,7 +752,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/data/business-intelligence</loc>
-    <lastmod>2024-06-04</lastmod>
+    <lastmod>2024-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -794,7 +794,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/data/business-intelligence/consulting</loc>
-    <lastmod>2024-06-04</lastmod>
+    <lastmod>2024-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -878,7 +878,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/services/application/integration</loc>
-    <lastmod>2024-06-01</lastmod>
+    <lastmod>2024-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -986,7 +986,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/services/managed/infrastructure</loc>
-    <lastmod>2024-05-22</lastmod>
+    <lastmod>2024-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -998,13 +998,13 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/aws/managed-services</loc>
-    <lastmod>2024-05-22</lastmod>
+    <lastmod>2024-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/services/managed/infrastructure/azure</loc>
-    <lastmod>2024-05-22</lastmod>
+    <lastmod>2024-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1124,7 +1124,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/servicenow/services/implementation</loc>
-    <lastmod>2024-05-17</lastmod>
+    <lastmod>2024-06-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1310,7 +1310,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/retail</loc>
-    <lastmod>2024-05-18</lastmod>
+    <lastmod>2024-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1490,7 +1490,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-development/it-staff-augmentation</loc>
-    <lastmod>2024-05-14</lastmod>
+    <lastmod>2024-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1850,7 +1850,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/data/data-warehouse/enterprise</loc>
-    <lastmod>2024-05-15</lastmod>
+    <lastmod>2024-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1898,7 +1898,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/it-support/help-desk</loc>
-    <lastmod>2024-06-04</lastmod>
+    <lastmod>2024-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1922,7 +1922,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/it-support/noc</loc>
-    <lastmod>2024-06-04</lastmod>
+    <lastmod>2024-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2150,7 +2150,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-development/blockchain</loc>
-    <lastmod>2024-05-16</lastmod>
+    <lastmod>2024-06-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2210,7 +2210,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/web-portals/employee-self-service</loc>
-    <lastmod>2024-04-04</lastmod>
+    <lastmod>2024-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2222,7 +2222,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/data/data-warehouse/consulting</loc>
-    <lastmod>2024-06-04</lastmod>
+    <lastmod>2024-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2234,7 +2234,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/data/business-intelligence/implementation</loc>
-    <lastmod>2024-05-31</lastmod>
+    <lastmod>2024-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2288,7 +2288,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ecommerce/platforms</loc>
-    <lastmod>2024-05-17</lastmod>
+    <lastmod>2024-06-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2378,7 +2378,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ecommerce/magento/services</loc>
-    <lastmod>2024-05-17</lastmod>
+    <lastmod>2024-06-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2684,7 +2684,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-development/maintenance-and-support</loc>
-    <lastmod>2024-05-14</lastmod>
+    <lastmod>2024-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2858,7 +2858,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-development/kiosk/digital-signage</loc>
-    <lastmod>2024-05-08</lastmod>
+    <lastmod>2024-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2912,7 +2912,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ecommerce/multi-channel</loc>
-    <lastmod>2024-05-17</lastmod>
+    <lastmod>2024-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3218,7 +3218,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-development/enterprise</loc>
-    <lastmod>2024-05-14</lastmod>
+    <lastmod>2024-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3248,7 +3248,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/application/support</loc>
-    <lastmod>2024-05-02</lastmod>
+    <lastmod>2024-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3308,7 +3308,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-development/dotnet/developers-for-hire</loc>
-    <lastmod>2024-04-01</lastmod>
+    <lastmod>2024-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3344,7 +3344,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/document-management/legal</loc>
-    <lastmod>2023-09-05</lastmod>
+    <lastmod>2024-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3356,7 +3356,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/web-portals/vendor</loc>
-    <lastmod>2024-05-21</lastmod>
+    <lastmod>2024-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3584,7 +3584,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-development/remote-service</loc>
-    <lastmod>2024-05-22</lastmod>
+    <lastmod>2024-06-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3728,7 +3728,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/scm/procurement-software</loc>
-    <lastmod>2024-05-13</lastmod>
+    <lastmod>2024-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3806,7 +3806,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/financial-management/modeling</loc>
-    <lastmod>2024-05-07</lastmod>
+    <lastmod>2024-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4106,7 +4106,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-development/enterprise/services</loc>
-    <lastmod>2024-05-14</lastmod>
+    <lastmod>2024-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4148,7 +4148,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/blockchain/blockchain-development-guide</loc>
-    <lastmod>2024-05-13</lastmod>
+    <lastmod>2024-06-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4214,7 +4214,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/scm/inventory-optimization</loc>
-    <lastmod>2024-05-13</lastmod>
+    <lastmod>2024-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4376,7 +4376,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/blockchain/implementation</loc>
-    <lastmod>2024-05-30</lastmod>
+    <lastmod>2024-06-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4406,7 +4406,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar</loc>
-    <lastmod>2024-05-27</lastmod>
+    <lastmod>2024-06-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4454,7 +4454,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/application/mobile-app-development</loc>
-    <lastmod>2024-06-03</lastmod>
+    <lastmod>2024-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4538,7 +4538,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/application/mobile-app-development/ios</loc>
-    <lastmod>2024-03-04</lastmod>
+    <lastmod>2024-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4562,7 +4562,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/application/development/cloud</loc>
-    <lastmod>2024-03-04</lastmod>
+    <lastmod>2024-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4586,7 +4586,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/application/support</loc>
-    <lastmod>2024-03-04</lastmod>
+    <lastmod>2024-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4820,13 +4820,13 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/it-support/help-desk/managed</loc>
-    <lastmod>2024-06-04</lastmod>
+    <lastmod>2024-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/lending/peer-to-peer-lending-software</loc>
-    <lastmod>2024-05-07</lastmod>
+    <lastmod>2024-06-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4976,7 +4976,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/it-operations/managed</loc>
-    <lastmod>2024-05-26</lastmod>
+    <lastmod>2024-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5012,7 +5012,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/application/mobile-app-development/consulting</loc>
-    <lastmod>2024-05-26</lastmod>
+    <lastmod>2024-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5036,7 +5036,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/it-consulting</loc>
-    <lastmod>2024-05-26</lastmod>
+    <lastmod>2024-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5126,13 +5126,13 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/retail/data-analytics</loc>
-    <lastmod>2024-05-18</lastmod>
+    <lastmod>2024-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/blockchain/consulting</loc>
-    <lastmod>2024-03-04</lastmod>
+    <lastmod>2024-06-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5276,7 +5276,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/it-support/help-desk/tier-3</loc>
-    <lastmod>2024-06-04</lastmod>
+    <lastmod>2024-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5534,7 +5534,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/services/it-infrastructure/outsourcing</loc>
-    <lastmod>2024-05-27</lastmod>
+    <lastmod>2024-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5666,7 +5666,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-development/about/how-we-work/collaboration</loc>
-    <lastmod>2024-05-14</lastmod>
+    <lastmod>2024-06-05</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5912,7 +5912,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/data/real-time-processing</loc>
-    <lastmod>2024-05-13</lastmod>
+    <lastmod>2024-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6002,13 +6002,13 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare</loc>
-    <lastmod>2024-05-29</lastmod>
+    <lastmod>2024-06-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/consulting</loc>
-    <lastmod>2024-06-03</lastmod>
+    <lastmod>2024-06-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6134,7 +6134,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/analytics/services</loc>
-    <lastmod>2024-05-02</lastmod>
+    <lastmod>2024-06-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6392,7 +6392,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/chronic-disease-management-software</loc>
-    <lastmod>2024-04-08</lastmod>
+    <lastmod>2024-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6452,7 +6452,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/virtual-reality/rehabilitation</loc>
-    <lastmod>2024-05-17</lastmod>
+    <lastmod>2024-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6482,7 +6482,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/virtual-reality/surgery</loc>
-    <lastmod>2024-02-14</lastmod>
+    <lastmod>2024-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6878,7 +6878,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/it-support/enterprise-help-desk</loc>
-    <lastmod>2024-06-04</lastmod>
+    <lastmod>2024-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6980,7 +6980,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/about</loc>
-    <lastmod>2024-05-23</lastmod>
+    <lastmod>2024-06-05</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7856,7 +7856,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-development/outsourcing/poland</loc>
-    <lastmod>2024-06-03</lastmod>
+    <lastmod>2024-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
