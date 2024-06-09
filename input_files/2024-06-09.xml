@@ -4226,7 +4226,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/experts</loc>
-    <lastmod>2024-06-06</lastmod>
+    <lastmod>2024-06-08</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4910,7 +4910,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/insurance/automation</loc>
-    <lastmod>2024-06-02</lastmod>
+    <lastmod>2024-06-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4970,7 +4970,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/insurance/software-development</loc>
-    <lastmod>2024-06-04</lastmod>
+    <lastmod>2024-06-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5120,7 +5120,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/insurance/app-development</loc>
-    <lastmod>2024-06-04</lastmod>
+    <lastmod>2024-06-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7924,6 +7924,12 @@
     <loc>https://www.scnsoft.com/ar/healthcare/wearable-medical-devices/configurator</loc>
     <lastmod>2024-06-03</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/insurance/software-development/health-insurance</loc>
+    <lastmod>2024-06-08</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
