@@ -2042,7 +2042,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/services/it-infrastructure/support</loc>
-    <lastmod>2024-05-22</lastmod>
+    <lastmod>2024-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4046,7 +4046,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/hipaa-compliance/risk-assessment</loc>
-    <lastmod>2024-06-07</lastmod>
+    <lastmod>2024-06-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4670,7 +4670,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/aws</loc>
-    <lastmod>2024-06-04</lastmod>
+    <lastmod>2024-06-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6116,7 +6116,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/hipaa-compliance</loc>
-    <lastmod>2024-05-15</lastmod>
+    <lastmod>2024-06-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6890,7 +6890,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/about/company</loc>
-    <lastmod>2024-05-14</lastmod>
+    <lastmod>2024-06-15</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6926,7 +6926,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-development/about/how-we-work/pricing-models</loc>
-    <lastmod>2024-05-14</lastmod>
+    <lastmod>2024-06-15</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6956,7 +6956,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/about</loc>
-    <lastmod>2024-06-11</lastmod>
+    <lastmod>2024-06-15</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8031,6 +8031,12 @@
   <url>
     <loc>https://www.scnsoft.com/lending/analytics/configurator</loc>
     <lastmod>2024-06-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/aws/link-to-pricing</loc>
+    <lastmod>2024-06-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
