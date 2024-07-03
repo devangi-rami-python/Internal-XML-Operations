@@ -950,7 +950,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/services/it-consulting</loc>
-    <lastmod>2024-06-27</lastmod>
+    <lastmod>2024-07-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2564,7 +2564,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-development/angular</loc>
-    <lastmod>2024-06-27</lastmod>
+    <lastmod>2024-07-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3680,7 +3680,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/financial-management/automated-invoice-processing</loc>
-    <lastmod>2024-06-27</lastmod>
+    <lastmod>2024-07-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4730,7 +4730,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/lending</loc>
-    <lastmod>2024-07-01</lastmod>
+    <lastmod>2024-07-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4742,7 +4742,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/lending/loan-automation</loc>
-    <lastmod>2024-07-01</lastmod>
+    <lastmod>2024-07-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4796,7 +4796,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/lending/loan-management-software</loc>
-    <lastmod>2024-07-01</lastmod>
+    <lastmod>2024-07-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4826,13 +4826,13 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/lending/peer-to-peer-lending-software</loc>
-    <lastmod>2024-07-01</lastmod>
+    <lastmod>2024-07-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/ecommerce/virtual-store</loc>
-    <lastmod>2024-06-29</lastmod>
+    <lastmod>2024-07-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4844,7 +4844,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/lending/mortgage-automation</loc>
-    <lastmod>2024-06-27</lastmod>
+    <lastmod>2024-07-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6368,7 +6368,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/telemedicine</loc>
-    <lastmod>2024-07-01</lastmod>
+    <lastmod>2024-07-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6422,7 +6422,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/iot/rfid-in-hospitals</loc>
-    <lastmod>2024-06-18</lastmod>
+    <lastmod>2024-07-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7778,7 +7778,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-development/pricing</loc>
-    <lastmod>2024-07-01</lastmod>
+    <lastmod>2024-07-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8060,7 +8060,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/lending/mortgage</loc>
-    <lastmod>2024-07-01</lastmod>
+    <lastmod>2024-07-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8083,8 +8083,14 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.scnsoft.com/lending/limit-and-collateral-management</loc>
+    <lastmod>2024-07-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.scnsoft.com/data</loc>
-    <lastmod>2024-06-28</lastmod>
+    <lastmod>2024-07-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8096,7 +8102,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/data/about</loc>
-    <lastmod>2024-06-27</lastmod>
+    <lastmod>2024-07-02</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
