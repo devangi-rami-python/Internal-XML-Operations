@@ -4136,7 +4136,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/customer-satisfaction-review</loc>
-    <lastmod>2022-06-07</lastmod>
+    <lastmod>2024-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4406,7 +4406,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar</loc>
-    <lastmod>2024-06-27</lastmod>
+    <lastmod>2024-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5174,7 +5174,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/security/penetration-testing</loc>
-    <lastmod>2024-05-26</lastmod>
+    <lastmod>2024-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6536,7 +6536,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/security</loc>
-    <lastmod>2024-06-27</lastmod>
+    <lastmod>2024-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7178,7 +7178,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/artificial-intelligence</loc>
-    <lastmod>2024-06-28</lastmod>
+    <lastmod>2024-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7208,7 +7208,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/real-estate/analytics</loc>
-    <lastmod>2024-07-09</lastmod>
+    <lastmod>2024-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7664,7 +7664,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/media-entertainment/analytics</loc>
-    <lastmod>2024-07-09</lastmod>
+    <lastmod>2024-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7706,7 +7706,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/energy-utilities/analytics</loc>
-    <lastmod>2024-07-09</lastmod>
+    <lastmod>2024-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7898,7 +7898,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/it-operations/managed/security</loc>
-    <lastmod>2024-06-27</lastmod>
+    <lastmod>2024-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8108,7 +8108,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/data/pricing</loc>
-    <lastmod>2024-07-08</lastmod>
+    <lastmod>2024-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8164,6 +8164,24 @@
     <loc>https://www.scnsoft.com/manufacturing/data-analytics/configurator</loc>
     <lastmod>2024-07-08</lastmod>
     <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/real-estate/analytics/configurator</loc>
+    <lastmod>2024-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/ar/security/testing</loc>
+    <lastmod>2024-07-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/ar/security/testing/configurator</loc>
+    <lastmod>2024-07-11</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 </urlset>
