@@ -200,7 +200,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/services/sharepoint/development</loc>
-    <lastmod>2024-05-24</lastmod>
+    <lastmod>2024-07-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -968,7 +968,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/it-operations/managed</loc>
-    <lastmod>2024-06-28</lastmod>
+    <lastmod>2024-07-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3980,7 +3980,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/analytics/business-intelligence/retail</loc>
-    <lastmod>2024-07-09</lastmod>
+    <lastmod>2024-07-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5126,7 +5126,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/retail/data-analytics</loc>
-    <lastmod>2024-07-09</lastmod>
+    <lastmod>2024-07-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7664,7 +7664,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/media-entertainment/analytics</loc>
-    <lastmod>2024-07-11</lastmod>
+    <lastmod>2024-07-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7688,7 +7688,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/education/analytics</loc>
-    <lastmod>2024-06-27</lastmod>
+    <lastmod>2024-07-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7982,7 +7982,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/mobile/health-monitoring-apps</loc>
-    <lastmod>2024-06-23</lastmod>
+    <lastmod>2024-07-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8108,7 +8108,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/data/pricing</loc>
-    <lastmod>2024-07-11</lastmod>
+    <lastmod>2024-07-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8182,6 +8182,24 @@
     <loc>https://www.scnsoft.com/ar/security/testing/configurator</loc>
     <lastmod>2024-07-11</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/retail/data-analytics/configurator</loc>
+    <lastmod>2024-07-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/education/analytics/configurator</loc>
+    <lastmod>2024-07-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/media-entertainment/analytics/configurator</loc>
+    <lastmod>2024-07-12</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 </urlset>
