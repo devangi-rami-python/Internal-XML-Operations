@@ -8,7 +8,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/about/careers</loc>
-    <lastmod>2024-07-31</lastmod>
+    <lastmod>2024-08-01</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -595,8 +595,8 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.scnsoft.com/mobile-design</loc>
-    <lastmod>2024-07-29</lastmod>
+    <loc>https://www.scnsoft.com/application/mobile/design</loc>
+    <lastmod>2024-08-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -853,44 +853,44 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.scnsoft.com/services/application</loc>
-    <lastmod>2024-07-31</lastmod>
+    <loc>https://www.scnsoft.com/application/services</loc>
+    <lastmod>2024-08-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.scnsoft.com/services/application/development</loc>
-    <lastmod>2024-07-29</lastmod>
+    <loc>https://www.scnsoft.com/application/development</loc>
+    <lastmod>2024-08-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.scnsoft.com/services/application/modernization</loc>
-    <lastmod>2024-07-29</lastmod>
+    <loc>https://www.scnsoft.com/application/modernization</loc>
+    <lastmod>2024-08-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.scnsoft.com/services/application/management</loc>
-    <lastmod>2024-07-20</lastmod>
+    <loc>https://www.scnsoft.com/application/management</loc>
+    <lastmod>2024-08-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.scnsoft.com/services/application/integration</loc>
-    <lastmod>2024-07-29</lastmod>
+    <loc>https://www.scnsoft.com/application/integration/services</loc>
+    <lastmod>2024-08-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.scnsoft.com/services/application-maintenance-and-support</loc>
-    <lastmod>2024-07-20</lastmod>
+    <loc>https://www.scnsoft.com/application/maintenance-and-support</loc>
+    <lastmod>2024-08-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.scnsoft.com/services/application/testing</loc>
-    <lastmod>2024-07-20</lastmod>
+    <loc>https://www.scnsoft.com/application/testing</loc>
+    <lastmod>2024-08-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -919,26 +919,26 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.scnsoft.com/services/mobile-app-development</loc>
-    <lastmod>2024-07-30</lastmod>
+    <loc>https://www.scnsoft.com/application/mobile/development</loc>
+    <lastmod>2024-08-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.scnsoft.com/services/mobile-app-development/consulting</loc>
-    <lastmod>2024-07-29</lastmod>
+    <loc>https://www.scnsoft.com/application/mobile/consulting</loc>
+    <lastmod>2024-08-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.scnsoft.com/services/mobile-app-development/ios</loc>
-    <lastmod>2024-07-29</lastmod>
+    <loc>https://www.scnsoft.com/application/mobile/development/ios</loc>
+    <lastmod>2024-08-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.scnsoft.com/services/mobile-app-development/xamarin</loc>
-    <lastmod>2024-07-29</lastmod>
+    <loc>https://www.scnsoft.com/application/mobile/development/xamarin</loc>
+    <lastmod>2024-08-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1081,8 +1081,8 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.scnsoft.com/services/desktop-application-development</loc>
-    <lastmod>2024-07-31</lastmod>
+    <loc>https://www.scnsoft.com/application/development/desktop/services</loc>
+    <lastmod>2024-08-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1147,8 +1147,8 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.scnsoft.com/services/ui-design</loc>
-    <lastmod>2024-06-27</lastmod>
+    <loc>https://www.scnsoft.com/application/ui-design</loc>
+    <lastmod>2024-08-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1189,8 +1189,8 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.scnsoft.com/services/ux-design</loc>
-    <lastmod>2024-06-27</lastmod>
+    <loc>https://www.scnsoft.com/application/ux-design</loc>
+    <lastmod>2024-08-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1610,7 +1610,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-development/php/outsourcing</loc>
-    <lastmod>2024-07-29</lastmod>
+    <lastmod>2024-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1765,8 +1765,8 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.scnsoft.com/services/mobile-app-development/android</loc>
-    <lastmod>2024-07-29</lastmod>
+    <loc>https://www.scnsoft.com/application/mobile/development/android</loc>
+    <lastmod>2024-08-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1802,7 +1802,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-development/startup</loc>
-    <lastmod>2024-07-31</lastmod>
+    <lastmod>2024-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2695,8 +2695,8 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.scnsoft.com/application/desktop-app-development</loc>
-    <lastmod>2024-07-29</lastmod>
+    <loc>https://www.scnsoft.com/application/development/desktop</loc>
+    <lastmod>2024-08-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2713,8 +2713,8 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.scnsoft.com/application/desktop-app-development/windows</loc>
-    <lastmod>2024-07-31</lastmod>
+    <loc>https://www.scnsoft.com/application/development/desktop/windows</loc>
+    <lastmod>2024-08-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2869,8 +2869,8 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.scnsoft.com/software-development/cloud/integration</loc>
-    <lastmod>2024-07-29</lastmod>
+    <loc>https://www.scnsoft.com/application/integration/cloud</loc>
+    <lastmod>2024-08-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3074,7 +3074,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/it-operations/support/remote</loc>
-    <lastmod>2024-07-31</lastmod>
+    <lastmod>2024-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3193,8 +3193,8 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.scnsoft.com/services/hire-ios-developers</loc>
-    <lastmod>2024-07-28</lastmod>
+    <loc>https://www.scnsoft.com/application/mobile/development/ios/developers-for-hire</loc>
+    <lastmod>2024-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3451,8 +3451,8 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.scnsoft.com/services/application/integration/azure</loc>
-    <lastmod>2024-07-29</lastmod>
+    <loc>https://www.scnsoft.com/application/integration/azure</loc>
+    <lastmod>2024-08-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3481,8 +3481,8 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.scnsoft.com/services/application-maintenance-and-support/mobile</loc>
-    <lastmod>2024-07-20</lastmod>
+    <loc>https://www.scnsoft.com/application/mobile/maintenance-and-support</loc>
+    <lastmod>2024-08-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3493,8 +3493,8 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.scnsoft.com/services/application/migration/azure</loc>
-    <lastmod>2024-07-29</lastmod>
+    <loc>https://www.scnsoft.com/application/migration/azure</loc>
+    <lastmod>2024-08-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3691,8 +3691,8 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.scnsoft.com/services/hire-android-developers</loc>
-    <lastmod>2024-07-28</lastmod>
+    <loc>https://www.scnsoft.com/application/mobile/development/android/developers-for-hire</loc>
+    <lastmod>2024-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4333,8 +4333,8 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.scnsoft.com/services/mobile-app-development/configurator</loc>
-    <lastmod>2023-12-01</lastmod>
+    <loc>https://www.scnsoft.com/application/mobile/development/configurator</loc>
+    <lastmod>2024-08-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5347,8 +5347,8 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.scnsoft.com/services/application-maintenance-and-support/configurator</loc>
-    <lastmod>2023-12-04</lastmod>
+    <loc>https://www.scnsoft.com/application/maintenance-and-support/configurator</loc>
+    <lastmod>2024-08-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6008,7 +6008,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare</loc>
-    <lastmod>2024-07-26</lastmod>
+    <lastmod>2024-08-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6062,7 +6062,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/mobile/fitness-apps</loc>
-    <lastmod>2024-07-26</lastmod>
+    <lastmod>2024-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8276,7 +8276,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/about/careers/partnership-coordinator-marketing-specialist</loc>
-    <lastmod>2024-07-22</lastmod>
+    <lastmod>2024-08-01</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8318,8 +8318,14 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/about/careers/l1-l2-support-engineer</loc>
-    <lastmod>2024-07-31</lastmod>
+    <lastmod>2024-08-01</lastmod>
     <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/configurator</loc>
+    <lastmod>2024-08-01</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 </urlset>
