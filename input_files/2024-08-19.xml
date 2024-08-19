@@ -4412,7 +4412,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar</loc>
-    <lastmod>2024-08-16</lastmod>
+    <lastmod>2024-08-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6518,7 +6518,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/about/locations</loc>
-    <lastmod>2024-05-23</lastmod>
+    <lastmod>2024-08-18</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8391,6 +8391,12 @@
   <url>
     <loc>https://www.scnsoft.com/healthcare/medical-devices/remote-patient-monitoring/configurator</loc>
     <lastmod>2024-08-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/ar/healthcare/image-analysis-software</loc>
+    <lastmod>2024-08-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
