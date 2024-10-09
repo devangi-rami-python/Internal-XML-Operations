@@ -986,7 +986,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/it-operations/managed/infrastructure</loc>
-    <lastmod>2024-09-27</lastmod>
+    <lastmod>2024-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1322,7 +1322,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/retail/crm</loc>
-    <lastmod>2024-08-28</lastmod>
+    <lastmod>2024-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1946,7 +1946,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/services/it-consulting/project-management</loc>
-    <lastmod>2024-09-30</lastmod>
+    <lastmod>2024-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4460,7 +4460,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/payment/gateway-development</loc>
-    <lastmod>2024-09-27</lastmod>
+    <lastmod>2024-10-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5936,7 +5936,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-development/mvp/services</loc>
-    <lastmod>2024-10-02</lastmod>
+    <lastmod>2024-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6878,7 +6878,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/artificial-intelligence-medical-diagnosis</loc>
-    <lastmod>2024-08-29</lastmod>
+    <lastmod>2024-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7988,7 +7988,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-development/engineering</loc>
-    <lastmod>2024-09-20</lastmod>
+    <lastmod>2024-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8018,7 +8018,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/insurance/fraud-detection</loc>
-    <lastmod>2024-09-20</lastmod>
+    <lastmod>2024-10-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8222,7 +8222,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/telemedicine/hipaa-compliance</loc>
-    <lastmod>2024-08-13</lastmod>
+    <lastmod>2024-10-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8516,7 +8516,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/artificial-intelligence-treatment-personalization</loc>
-    <lastmod>2024-09-25</lastmod>
+    <lastmod>2024-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8588,7 +8588,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/analytics/cro</loc>
-    <lastmod>2024-10-07</lastmod>
+    <lastmod>2024-10-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8606,13 +8606,13 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/transportation-and-logistics/analytics</loc>
-    <lastmod>2024-10-07</lastmod>
+    <lastmod>2024-10-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/analytics/medical-laboratory</loc>
-    <lastmod>2024-10-07</lastmod>
+    <lastmod>2024-10-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8636,7 +8636,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/artificial-intelligence-records-management</loc>
-    <lastmod>2024-10-07</lastmod>
+    <lastmod>2024-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8686,6 +8686,12 @@
     <loc>https://www.scnsoft.com/office-365/configurator</loc>
     <lastmod>2024-10-03</lastmod>
     <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/ar/healthcare/analytics/configurator</loc>
+    <lastmod>2024-10-08</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 </urlset>
