@@ -32,7 +32,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-development/qt</loc>
-    <lastmod>2024-10-15</lastmod>
+    <lastmod>2024-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -950,7 +950,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/services/it-consulting</loc>
-    <lastmod>2024-08-02</lastmod>
+    <lastmod>2024-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2102,13 +2102,13 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-development/databases/image</loc>
-    <lastmod>2024-10-02</lastmod>
+    <lastmod>2024-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-development/agile/consulting</loc>
-    <lastmod>2024-10-14</lastmod>
+    <lastmod>2024-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2306,7 +2306,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ecommerce/services/consulting</loc>
-    <lastmod>2024-09-10</lastmod>
+    <lastmod>2024-10-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3446,7 +3446,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/application/integration/azure</loc>
-    <lastmod>2024-10-03</lastmod>
+    <lastmod>2024-10-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4598,7 +4598,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/healthcare/software-development</loc>
-    <lastmod>2024-10-16</lastmod>
+    <lastmod>2024-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7658,7 +7658,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-testing/pricing</loc>
-    <lastmod>2024-10-14</lastmod>
+    <lastmod>2024-10-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8721,6 +8721,12 @@
   <url>
     <loc>https://www.scnsoft.com/finance/fraud-detection</loc>
     <lastmod>2024-10-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/telecommunications/analytics</loc>
+    <lastmod>2024-10-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
