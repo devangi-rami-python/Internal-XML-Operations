@@ -8528,7 +8528,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/finance/about/how-we-work/financial-software-longevity</loc>
-    <lastmod>2024-11-01</lastmod>
+    <lastmod>2024-11-16</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8913,6 +8913,12 @@
   <url>
     <loc>https://www.scnsoft.com/software-development/about/how-we-work/devops</loc>
     <lastmod>2024-11-15</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/software-development/about/how-we-work/performance-management</loc>
+    <lastmod>2024-11-16</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
