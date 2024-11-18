@@ -1520,7 +1520,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/services/iot/solutions</loc>
-    <lastmod>2024-11-15</lastmod>
+    <lastmod>2024-11-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4448,13 +4448,13 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/application/development</loc>
-    <lastmod>2024-11-14</lastmod>
+    <lastmod>2024-11-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/application/mobile-app-development</loc>
-    <lastmod>2024-11-11</lastmod>
+    <lastmod>2024-11-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4592,7 +4592,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/healthcare</loc>
-    <lastmod>2024-11-11</lastmod>
+    <lastmod>2024-11-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4658,7 +4658,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/healthcare/telemedicine</loc>
-    <lastmod>2024-11-11</lastmod>
+    <lastmod>2024-11-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5174,7 +5174,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/security/penetration-testing</loc>
-    <lastmod>2024-11-11</lastmod>
+    <lastmod>2024-11-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5516,7 +5516,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/finance/software-development</loc>
-    <lastmod>2024-11-11</lastmod>
+    <lastmod>2024-11-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6536,7 +6536,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/security</loc>
-    <lastmod>2024-11-11</lastmod>
+    <lastmod>2024-11-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6668,7 +6668,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/banking</loc>
-    <lastmod>2024-11-11</lastmod>
+    <lastmod>2024-11-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8144,7 +8144,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/security/testing</loc>
-    <lastmod>2024-11-11</lastmod>
+    <lastmod>2024-11-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8920,6 +8920,12 @@
     <loc>https://www.scnsoft.com/software-development/about/how-we-work/performance-management</loc>
     <lastmod>2024-11-16</lastmod>
     <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/ar/healthcare/chronic-disease-management-software/configurator</loc>
+    <lastmod>2024-11-17</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 </urlset>
