@@ -19,12 +19,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.scnsoft.com/about/careers/upload-your-cv</loc>
-    <lastmod>2024-04-30</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.scnsoft.com/management-team</loc>
     <lastmod>2024-06-12</lastmod>
     <changefreq>yearly</changefreq>
@@ -764,7 +758,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/data/management</loc>
-    <lastmod>2024-10-28</lastmod>
+    <lastmod>2024-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1964,7 +1958,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/about/awards</loc>
-    <lastmod>2024-11-20</lastmod>
+    <lastmod>2024-11-22</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3956,7 +3950,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/artificial-intelligence</loc>
-    <lastmod>2024-11-06</lastmod>
+    <lastmod>2024-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4496,7 +4490,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/data/big-data/implementation</loc>
-    <lastmod>2024-11-01</lastmod>
+    <lastmod>2024-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5990,7 +5984,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/pricing/software-type</loc>
-    <lastmod>2024-11-06</lastmod>
+    <lastmod>2024-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6032,7 +6026,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/web-design-development</loc>
-    <lastmod>2024-11-15</lastmod>
+    <lastmod>2024-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7532,7 +7526,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/finance/pricing</loc>
-    <lastmod>2024-11-01</lastmod>
+    <lastmod>2024-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7736,7 +7730,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-development/pricing</loc>
-    <lastmod>2024-11-14</lastmod>
+    <lastmod>2024-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7886,7 +7880,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/insurance/software-development/health-insurance</loc>
-    <lastmod>2024-11-13</lastmod>
+    <lastmod>2024-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8828,7 +8822,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/financial-management/accounting-software-development</loc>
-    <lastmod>2024-11-05</lastmod>
+    <lastmod>2024-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8900,7 +8894,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/travel/analytics</loc>
-    <lastmod>2024-11-14</lastmod>
+    <lastmod>2024-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8932,6 +8926,12 @@
     <loc>https://www.scnsoft.com/ar/healthcare/chronic-disease-management-software/configurator</loc>
     <lastmod>2024-11-20</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/banking/configurator</loc>
+    <lastmod>2024-11-22</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 </urlset>
