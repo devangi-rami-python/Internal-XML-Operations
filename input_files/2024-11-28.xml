@@ -632,37 +632,37 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/microsoft-dynamics-365/crm</loc>
-    <lastmod>2024-08-30</lastmod>
+    <lastmod>2024-11-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/microsoft-dynamics-365/customer-service</loc>
-    <lastmod>2024-11-12</lastmod>
+    <lastmod>2024-11-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/microsoft-dynamics-365/marketing</loc>
-    <lastmod>2024-08-30</lastmod>
+    <lastmod>2024-11-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/services/crm/microsoft-dynamics</loc>
-    <lastmod>2024-08-30</lastmod>
+    <lastmod>2024-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/services/crm/microsoft-dynamics/consulting</loc>
-    <lastmod>2024-09-30</lastmod>
+    <lastmod>2024-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/services/crm/microsoft-dynamics/customization</loc>
-    <lastmod>2024-10-01</lastmod>
+    <lastmod>2024-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1376,7 +1376,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/about/partnerships/microsoft/dynamics-365</loc>
-    <lastmod>2024-05-18</lastmod>
+    <lastmod>2024-11-27</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1580,7 +1580,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/microsoft-dynamics-365/sales</loc>
-    <lastmod>2024-11-12</lastmod>
+    <lastmod>2024-11-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1844,7 +1844,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/microsoft-dynamics-365</loc>
-    <lastmod>2024-11-12</lastmod>
+    <lastmod>2024-11-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3542,7 +3542,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/scm/order-management-software</loc>
-    <lastmod>2024-11-01</lastmod>
+    <lastmod>2024-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6974,7 +6974,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/pricing</loc>
-    <lastmod>2024-11-01</lastmod>
+    <lastmod>2024-11-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8528,7 +8528,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-development/about/how-we-work/team-structure</loc>
-    <lastmod>2024-10-01</lastmod>
+    <lastmod>2024-11-27</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8588,7 +8588,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/it-operations/pricing</loc>
-    <lastmod>2024-11-01</lastmod>
+    <lastmod>2024-11-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8937,6 +8937,12 @@
   <url>
     <loc>https://www.scnsoft.com/banking/configurator</loc>
     <lastmod>2024-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/healthcare/who-we-serve/mental-health-care-providers</loc>
+    <lastmod>2024-11-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
