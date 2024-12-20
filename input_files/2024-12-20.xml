@@ -6434,7 +6434,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/virtual-reality</loc>
-    <lastmod>2024-11-01</lastmod>
+    <lastmod>2024-12-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7556,7 +7556,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/pricing</loc>
-    <lastmod>2024-12-02</lastmod>
+    <lastmod>2024-12-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9045,6 +9045,12 @@
   <url>
     <loc>https://www.scnsoft.com/about/careers/marketing-specialist</loc>
     <lastmod>2024-12-17</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/finance/employees</loc>
+    <lastmod>2024-12-19</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
