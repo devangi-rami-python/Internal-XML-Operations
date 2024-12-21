@@ -1334,7 +1334,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/telecommunications</loc>
-    <lastmod>2024-12-04</lastmod>
+    <lastmod>2024-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2228,7 +2228,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ecommerce</loc>
-    <lastmod>2024-11-19</lastmod>
+    <lastmod>2024-12-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6530,7 +6530,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/security</loc>
-    <lastmod>2024-12-15</lastmod>
+    <lastmod>2024-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6974,7 +6974,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/pricing</loc>
-    <lastmod>2024-12-02</lastmod>
+    <lastmod>2024-12-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8138,7 +8138,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/security/testing</loc>
-    <lastmod>2024-12-15</lastmod>
+    <lastmod>2024-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8558,7 +8558,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/it-operations</loc>
-    <lastmod>2024-11-19</lastmod>
+    <lastmod>2024-12-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8588,7 +8588,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/it-operations/pricing</loc>
-    <lastmod>2024-11-27</lastmod>
+    <lastmod>2024-12-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9019,6 +9019,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.scnsoft.com/healthcare/electronic-laboratory-notebook</loc>
+    <lastmod>2024-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.scnsoft.com/about/careers/devops-engineer</loc>
     <lastmod>2024-12-17</lastmod>
     <changefreq>yearly</changefreq>
@@ -9052,6 +9058,12 @@
     <loc>https://www.scnsoft.com/finance/employees</loc>
     <lastmod>2024-12-19</lastmod>
     <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/telecommunications/configurator</loc>
+    <lastmod>2024-12-20</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 </urlset>
