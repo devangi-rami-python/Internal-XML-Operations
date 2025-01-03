@@ -5996,7 +5996,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare</loc>
-    <lastmod>2024-12-24</lastmod>
+    <lastmod>2025-01-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6008,7 +6008,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/custom-software-development</loc>
-    <lastmod>2024-12-30</lastmod>
+    <lastmod>2025-01-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8258,7 +8258,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/software-development/front-end</loc>
-    <lastmod>2024-12-23</lastmod>
+    <lastmod>2025-01-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8756,7 +8756,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/who-we-serve/care-providers</loc>
-    <lastmod>2024-12-18</lastmod>
+    <lastmod>2025-01-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8774,7 +8774,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/who-we-serve/product-companies</loc>
-    <lastmod>2024-11-05</lastmod>
+    <lastmod>2025-01-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9032,19 +9032,19 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/electronic-laboratory-notebook</loc>
-    <lastmod>2024-12-24</lastmod>
+    <lastmod>2025-01-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/who-we-serve/medical-labs</loc>
-    <lastmod>2024-12-30</lastmod>
+    <lastmod>2025-01-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/finance/large-language-models</loc>
-    <lastmod>2024-12-30</lastmod>
+    <lastmod>2025-01-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9098,7 +9098,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/who-we-serve/practices</loc>
-    <lastmod>2024-12-30</lastmod>
+    <lastmod>2025-01-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9110,7 +9110,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/artificial-intelligence-mental-health</loc>
-    <lastmod>2024-12-30</lastmod>
+    <lastmod>2025-01-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9135,6 +9135,12 @@
   <url>
     <loc>https://www.scnsoft.com/healthcare/artificial-intelligence/configurator</loc>
     <lastmod>2024-12-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/ar/home-health-software</loc>
+    <lastmod>2025-01-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
