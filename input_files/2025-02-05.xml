@@ -32,7 +32,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-development/services</loc>
-    <lastmod>2025-01-31</lastmod>
+    <lastmod>2025-02-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -49,14 +49,14 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.scnsoft.com/services/salesforce</loc>
-    <lastmod>2024-11-01</lastmod>
+    <loc>https://www.scnsoft.com/salesforce</loc>
+    <lastmod>2025-02-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.scnsoft.com/services/salesforce/implementation</loc>
-    <lastmod>2024-11-01</lastmod>
+    <loc>https://www.scnsoft.com/salesforce/implementation</loc>
+    <lastmod>2025-02-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -67,8 +67,8 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.scnsoft.com/services/salesforce/consulting</loc>
-    <lastmod>2024-09-03</lastmod>
+    <loc>https://www.scnsoft.com/salesforce/consulting</loc>
+    <lastmod>2025-02-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -79,14 +79,14 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.scnsoft.com/services/salesforce/customization</loc>
-    <lastmod>2024-11-01</lastmod>
+    <loc>https://www.scnsoft.com/salesforce/customization</loc>
+    <lastmod>2025-02-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.scnsoft.com/services/salesforce/app-development</loc>
-    <lastmod>2024-11-01</lastmod>
+    <loc>https://www.scnsoft.com/salesforce/app-development</loc>
+    <lastmod>2025-02-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -97,20 +97,20 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.scnsoft.com/services/salesforce/integration</loc>
-    <lastmod>2024-07-04</lastmod>
+    <loc>https://www.scnsoft.com/salesforce/integration</loc>
+    <lastmod>2025-02-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.scnsoft.com/services/salesforce/managed</loc>
-    <lastmod>2024-11-01</lastmod>
+    <loc>https://www.scnsoft.com/salesforce/managed</loc>
+    <lastmod>2025-02-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.scnsoft.com/services/salesforce/support</loc>
-    <lastmod>2024-11-01</lastmod>
+    <loc>https://www.scnsoft.com/salesforce/support</loc>
+    <lastmod>2025-02-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -224,7 +224,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/microsoft/sharepoint/services/managed</loc>
-    <lastmod>2025-01-13</lastmod>
+    <lastmod>2025-02-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -698,7 +698,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/crm/custom</loc>
-    <lastmod>2024-12-27</lastmod>
+    <lastmod>2025-02-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -835,8 +835,8 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.scnsoft.com/services/salesforce/demo</loc>
-    <lastmod>2024-05-17</lastmod>
+    <loc>https://www.scnsoft.com/salesforce/demo</loc>
+    <lastmod>2025-02-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -944,7 +944,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/it-consulting</loc>
-    <lastmod>2025-01-16</lastmod>
+    <lastmod>2025-02-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1027,14 +1027,14 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.scnsoft.com/services/salesforce/demo-customer-profile</loc>
-    <lastmod>2024-06-27</lastmod>
+    <loc>https://www.scnsoft.com/salesforce/demo/customer-profile</loc>
+    <lastmod>2025-02-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.scnsoft.com/services/salesforce/demo-marketing-campaign</loc>
-    <lastmod>2023-02-21</lastmod>
+    <loc>https://www.scnsoft.com/salesforce/demo/marketing-campaign</loc>
+    <lastmod>2025-02-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1063,14 +1063,14 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.scnsoft.com/services/salesforce/demo-lead-management</loc>
-    <lastmod>2023-02-21</lastmod>
+    <loc>https://www.scnsoft.com/salesforce/demo/lead-management</loc>
+    <lastmod>2025-02-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.scnsoft.com/services/salesforce/demo-opportunity-management</loc>
-    <lastmod>2023-02-22</lastmod>
+    <loc>https://www.scnsoft.com/salesforce/demo/opportunity-management</loc>
+    <lastmod>2025-02-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1453,33 +1453,33 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.scnsoft.com/how-we-work/whitepapers</loc>
-    <lastmod>2024-10-02</lastmod>
-    <changefreq>yearly</changefreq>
+    <loc>https://www.scnsoft.com/security/siem/whitepapers</loc>
+    <lastmod>2025-02-04</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.scnsoft.com/how-we-work/whitepapers/unofficial-qradar-log-source-extension-lsx-and-threat-cases-for-microsoft-dynamics-crm-2011</loc>
-    <lastmod>2024-04-19</lastmod>
-    <changefreq>yearly</changefreq>
+    <loc>https://www.scnsoft.com/security/siem/whitepapers/unofficial-qradar-log-source-extension-lsx-and-threat-cases-for-microsoft-dynamics-crm-2011</loc>
+    <lastmod>2025-02-04</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.scnsoft.com/how-we-work/whitepapers/ibm-security-qradar-installation-guide-for-hyper-v</loc>
-    <lastmod>2023-11-09</lastmod>
-    <changefreq>yearly</changefreq>
+    <loc>https://www.scnsoft.com/security/siem/whitepapers/ibm-security-qradar-installation-guide-for-hyper-v</loc>
+    <lastmod>2025-02-04</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.scnsoft.com/about/how-we-work/whitepapers/improving-operability-performance-of-siem-solutions-the-case-of-health-check-framework-for-ibm-security-qradar-siem</loc>
-    <lastmod>2023-11-09</lastmod>
-    <changefreq>yearly</changefreq>
+    <loc>https://www.scnsoft.com/security/siem/whitepapers/improving-operability-performance-of-siem-solutions-the-case-of-health-check-framework-for-ibm-security-qradar-siem</loc>
+    <lastmod>2025-02-04</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.scnsoft.com/how-we-work/whitepapers/unofficial-qradar-log-source-extension-and-threat-cases-for-kerio-control-unified-threat-management</loc>
-    <lastmod>2023-11-09</lastmod>
-    <changefreq>yearly</changefreq>
+    <loc>https://www.scnsoft.com/security/siem/whitepapers/unofficial-qradar-log-source-extension-and-threat-cases-for-kerio-control-unified-threat-management</loc>
+    <lastmod>2025-02-04</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
@@ -2120,7 +2120,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/virtual-reality/training</loc>
-    <lastmod>2025-01-08</lastmod>
+    <lastmod>2025-02-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2179,8 +2179,8 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.scnsoft.com/siem/ibm-qradar/tools</loc>
-    <lastmod>2024-11-01</lastmod>
+    <loc>https://www.scnsoft.com/security/siem/ibm-qradar/tools</loc>
+    <lastmod>2025-02-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2695,14 +2695,14 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.scnsoft.com/services/software-consulting/development-process</loc>
-    <lastmod>2024-10-01</lastmod>
+    <loc>https://www.scnsoft.com/software-development/consulting/development-process</loc>
+    <lastmod>2025-02-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/application/development/desktop/windows</loc>
-    <lastmod>2024-11-01</lastmod>
+    <lastmod>2025-02-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4196,7 +4196,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/blockchain/decentralized-marketplace</loc>
-    <lastmod>2024-11-01</lastmod>
+    <lastmod>2025-02-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4724,7 +4724,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/lending</loc>
-    <lastmod>2025-02-03</lastmod>
+    <lastmod>2025-02-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6062,7 +6062,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/mobile/patient-apps</loc>
-    <lastmod>2025-01-17</lastmod>
+    <lastmod>2025-02-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6206,7 +6206,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/medical-devices/wearable</loc>
-    <lastmod>2025-01-16</lastmod>
+    <lastmod>2025-02-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6272,7 +6272,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/hr-software</loc>
-    <lastmod>2024-11-04</lastmod>
+    <lastmod>2025-02-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7388,7 +7388,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/about/mission</loc>
-    <lastmod>2025-02-03</lastmod>
+    <lastmod>2025-02-04</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7520,7 +7520,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/in-vitro-diagnostics</loc>
-    <lastmod>2025-02-03</lastmod>
+    <lastmod>2025-02-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7556,7 +7556,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/pricing</loc>
-    <lastmod>2025-01-22</lastmod>
+    <lastmod>2025-02-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7742,7 +7742,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/data/big-data/real-time-analytics</loc>
-    <lastmod>2024-11-04</lastmod>
+    <lastmod>2025-02-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8822,7 +8822,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/financial-management/accounting-software-development</loc>
-    <lastmod>2024-11-22</lastmod>
+    <lastmod>2025-02-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9092,7 +9092,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/patient-portals/diagnostic-labs</loc>
-    <lastmod>2025-02-03</lastmod>
+    <lastmod>2025-02-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9302,7 +9302,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/who-we-serve/home-healthcare</loc>
-    <lastmod>2025-01-29</lastmod>
+    <lastmod>2025-02-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
