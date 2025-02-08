@@ -722,7 +722,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/data/analysis</loc>
-    <lastmod>2024-11-15</lastmod>
+    <lastmod>2025-02-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1364,7 +1364,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/about/partnerships/microsoft/sharepoint</loc>
-    <lastmod>2025-01-30</lastmod>
+    <lastmod>2025-02-07</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4568,7 +4568,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-development/costs</loc>
-    <lastmod>2024-11-20</lastmod>
+    <lastmod>2025-02-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7388,7 +7388,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/about/mission</loc>
-    <lastmod>2025-02-05</lastmod>
+    <lastmod>2025-02-07</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8864,7 +8864,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/finance/fintech/top-fintech-software-development-companies</loc>
-    <lastmod>2025-01-10</lastmod>
+    <lastmod>2025-02-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8984,7 +8984,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/top-healthcare-software-development-companies</loc>
-    <lastmod>2025-02-05</lastmod>
+    <lastmod>2025-02-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9343,8 +9343,14 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.scnsoft.com/healthcare/radiology-information-system</loc>
+    <lastmod>2025-02-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.scnsoft.com/software-development/about/mission</loc>
-    <lastmod>2025-02-06</lastmod>
+    <lastmod>2025-02-07</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
