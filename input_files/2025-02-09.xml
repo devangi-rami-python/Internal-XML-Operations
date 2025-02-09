@@ -8348,7 +8348,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/insurance/blockchain</loc>
-    <lastmod>2024-08-21</lastmod>
+    <lastmod>2025-02-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9352,6 +9352,18 @@
     <loc>https://www.scnsoft.com/software-development/about/mission</loc>
     <lastmod>2025-02-07</lastmod>
     <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/ar/insurance/claim-management-automation</loc>
+    <lastmod>2025-02-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/ar/insurance/claim-management-automation-roi-configurator</loc>
+    <lastmod>2025-02-08</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 </urlset>
