@@ -3314,7 +3314,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/asset-management/software/computer-aided-facilities-management</loc>
-    <lastmod>2024-08-27</lastmod>
+    <lastmod>2025-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5294,7 +5294,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/cloud/migration/configurator</loc>
-    <lastmod>2025-02-06</lastmod>
+    <lastmod>2025-02-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6680,7 +6680,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/mobile/doctor-on-demand-apps</loc>
-    <lastmod>2024-11-01</lastmod>
+    <lastmod>2025-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7832,7 +7832,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/insurance/homeowners-insurance-software</loc>
-    <lastmod>2024-11-01</lastmod>
+    <lastmod>2025-02-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8864,7 +8864,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/finance/fintech/top-fintech-software-development-companies</loc>
-    <lastmod>2025-02-07</lastmod>
+    <lastmod>2025-02-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9350,13 +9350,13 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-development/about/mission</loc>
-    <lastmod>2025-02-07</lastmod>
+    <lastmod>2025-02-11</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/insurance/claim-management-automation</loc>
-    <lastmod>2025-02-10</lastmod>
+    <lastmod>2025-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9364,6 +9364,12 @@
     <loc>https://www.scnsoft.com/ar/insurance/claim-management-automation-roi-configurator</loc>
     <lastmod>2025-02-08</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/finance/mission</loc>
+    <lastmod>2025-02-11</lastmod>
+    <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
 </urlset>
