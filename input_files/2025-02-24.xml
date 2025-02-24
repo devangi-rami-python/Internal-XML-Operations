@@ -6644,7 +6644,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/lending</loc>
-    <lastmod>2024-11-21</lastmod>
+    <lastmod>2025-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6662,7 +6662,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/banking</loc>
-    <lastmod>2024-12-21</lastmod>
+    <lastmod>2025-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9429,6 +9429,12 @@
   <url>
     <loc>https://www.scnsoft.com/ar/insurance/app-development</loc>
     <lastmod>2025-02-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/ar/lending/loan-management-software</loc>
+    <lastmod>2025-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
