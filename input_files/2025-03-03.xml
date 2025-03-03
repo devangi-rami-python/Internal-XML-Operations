@@ -1238,7 +1238,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/image-analysis/automated-visual-inspection</loc>
-    <lastmod>2025-02-27</lastmod>
+    <lastmod>2025-03-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1340,7 +1340,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/security/siem/sciencesoft-siem</loc>
-    <lastmod>2024-11-13</lastmod>
+    <lastmod>2025-03-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1934,7 +1934,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/it-operations/services/virtual-cio</loc>
-    <lastmod>2025-01-30</lastmod>
+    <lastmod>2025-03-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2522,7 +2522,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ecommerce/custom-shopping-cart</loc>
-    <lastmod>2024-08-26</lastmod>
+    <lastmod>2025-03-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3320,7 +3320,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/web-development/hire-web-developers</loc>
-    <lastmod>2025-02-06</lastmod>
+    <lastmod>2025-03-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6644,7 +6644,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/lending</loc>
-    <lastmod>2025-03-01</lastmod>
+    <lastmod>2025-03-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9440,7 +9440,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/lending/loan-management-software</loc>
-    <lastmod>2025-02-27</lastmod>
+    <lastmod>2025-03-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9470,13 +9470,19 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/lending/mortgage-automation</loc>
-    <lastmod>2025-03-01</lastmod>
+    <lastmod>2025-03-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/lending/mortgage-automation/configurator</loc>
     <lastmod>2025-03-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/ar/lending/automated-debt-collection-software</loc>
+    <lastmod>2025-03-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
