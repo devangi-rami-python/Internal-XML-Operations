@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.scnsoft.com/</loc>
-    <lastmod>2025-03-24</lastmod>
+    <lastmod>2025-04-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
@@ -1808,7 +1808,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/it-operations/services/outsourcing</loc>
-    <lastmod>2025-01-30</lastmod>
+    <lastmod>2025-04-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2432,7 +2432,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ecommerce/magento/services/development/pwa</loc>
-    <lastmod>2024-06-29</lastmod>
+    <lastmod>2025-04-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7538,7 +7538,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/pricing</loc>
-    <lastmod>2025-04-01</lastmod>
+    <lastmod>2025-04-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9710,13 +9710,19 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/payment/orchestration-software</loc>
-    <lastmod>2025-04-02</lastmod>
+    <lastmod>2025-04-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/medical-diagnosis-software/calculator</loc>
     <lastmod>2025-04-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/healthcare/clinical-decision-support-system/calculator</loc>
+    <lastmod>2025-04-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
