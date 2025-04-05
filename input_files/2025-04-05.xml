@@ -9692,7 +9692,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/it-operations/help-desk/after-hours</loc>
-    <lastmod>2025-04-02</lastmod>
+    <lastmod>2025-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9710,7 +9710,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/payment/orchestration-software</loc>
-    <lastmod>2025-04-03</lastmod>
+    <lastmod>2025-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9723,6 +9723,18 @@
   <url>
     <loc>https://www.scnsoft.com/healthcare/clinical-decision-support-system/calculator</loc>
     <lastmod>2025-04-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/ar/blockchain/cryptocurrency-wallet</loc>
+    <lastmod>2025-04-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/ar/payment/app-development</loc>
+    <lastmod>2025-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
