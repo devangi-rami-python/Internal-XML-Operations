@@ -1946,7 +1946,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/about/awards</loc>
-    <lastmod>2025-04-22</lastmod>
+    <lastmod>2025-04-24</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6176,7 +6176,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/medical-devices</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2025-04-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7370,7 +7370,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/about/mission</loc>
-    <lastmod>2025-04-11</lastmod>
+    <lastmod>2025-04-23</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8966,7 +8966,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/top-healthcare-software-development-companies</loc>
-    <lastmod>2025-04-10</lastmod>
+    <lastmod>2025-04-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9008,7 +9008,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/about/mission</loc>
-    <lastmod>2025-04-10</lastmod>
+    <lastmod>2025-04-24</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9772,6 +9772,18 @@
     <loc>https://www.scnsoft.com/investment/large-language-models</loc>
     <lastmod>2025-04-22</lastmod>
     <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/healthcare/clinical-trials/remote-monitoring</loc>
+    <lastmod>2025-04-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/it-operations/about/how-we-work/proactive-help-desk</loc>
+    <lastmod>2025-04-24</lastmod>
+    <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
