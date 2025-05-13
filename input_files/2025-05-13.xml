@@ -1898,7 +1898,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/it-operations/support/noc</loc>
-    <lastmod>2025-03-11</lastmod>
+    <lastmod>2025-05-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2732,7 +2732,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-development/start-a-software-company</loc>
-    <lastmod>2025-03-19</lastmod>
+    <lastmod>2025-05-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3926,7 +3926,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/digital-transformation</loc>
-    <lastmod>2025-05-06</lastmod>
+    <lastmod>2025-05-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7538,7 +7538,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/pricing</loc>
-    <lastmod>2025-04-18</lastmod>
+    <lastmod>2025-05-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9458,7 +9458,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/care-coordination-software</loc>
-    <lastmod>2025-04-22</lastmod>
+    <lastmod>2025-05-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9770,7 +9770,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/cloud</loc>
-    <lastmod>2025-05-05</lastmod>
+    <lastmod>2025-05-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9856,6 +9856,12 @@
     <loc>https://www.scnsoft.com/microsoft/reselling</loc>
     <lastmod>2025-04-30</lastmod>
     <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/healthcare/care-management-software</loc>
+    <lastmod>2025-05-12</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
