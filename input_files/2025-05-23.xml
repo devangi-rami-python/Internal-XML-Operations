@@ -5978,7 +5978,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare</loc>
-    <lastmod>2025-05-07</lastmod>
+    <lastmod>2025-05-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8846,7 +8846,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/finance/fintech/top-fintech-software-development-companies</loc>
-    <lastmod>2025-04-30</lastmod>
+    <lastmod>2025-05-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8966,7 +8966,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/top-healthcare-software-development-companies</loc>
-    <lastmod>2025-05-14</lastmod>
+    <lastmod>2025-05-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9350,7 +9350,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/blockchain/top-blockchain-development-companies</loc>
-    <lastmod>2025-04-30</lastmod>
+    <lastmod>2025-05-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9500,7 +9500,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/it-operations/help-desk/top-help-desk-outsourcing-companies</loc>
-    <lastmod>2025-05-05</lastmod>
+    <lastmod>2025-05-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9830,7 +9830,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/web-portals</loc>
-    <lastmod>2025-05-14</lastmod>
+    <lastmod>2025-05-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9903,6 +9903,12 @@
   <url>
     <loc>https://www.scnsoft.com/healthcare/artificial-intelligence-long-term-care</loc>
     <lastmod>2025-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/healthcare/clinical-trials/data-integration</loc>
+    <lastmod>2025-05-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
