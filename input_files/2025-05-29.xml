@@ -8,7 +8,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/about/careers</loc>
-    <lastmod>2025-05-05</lastmod>
+    <lastmod>2025-05-27</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -704,7 +704,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/data/analytics</loc>
-    <lastmod>2025-05-15</lastmod>
+    <lastmod>2025-05-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1184,7 +1184,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/web-portals/development</loc>
-    <lastmod>2025-05-15</lastmod>
+    <lastmod>2025-05-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6530,7 +6530,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/insurance/software-development</loc>
-    <lastmod>2025-03-21</lastmod>
+    <lastmod>2025-05-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7538,7 +7538,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/pricing</loc>
-    <lastmod>2025-05-12</lastmod>
+    <lastmod>2025-05-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9620,7 +9620,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/about/careers/senior-sales-manager</loc>
-    <lastmod>2025-03-21</lastmod>
+    <lastmod>2025-05-27</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9650,7 +9650,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/about/careers/senior-golang-backend-engineer</loc>
-    <lastmod>2025-03-24</lastmod>
+    <lastmod>2025-05-27</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9674,7 +9674,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/about/careers/arabic-speaking-senior-business-analyst</loc>
-    <lastmod>2025-03-24</lastmod>
+    <lastmod>2025-05-27</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9800,7 +9800,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/about/careers/middle-project-manager</loc>
-    <lastmod>2025-04-15</lastmod>
+    <lastmod>2025-05-27</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9824,7 +9824,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/aws/reselling</loc>
-    <lastmod>2025-05-08</lastmod>
+    <lastmod>2025-05-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9914,7 +9914,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/revenue-cycle-management-software</loc>
-    <lastmod>2025-05-26</lastmod>
+    <lastmod>2025-05-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9931,8 +9931,14 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.scnsoft.com/healthcare/wander-management-system</loc>
+    <lastmod>2025-05-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.scnsoft.com/ar/investment/blockchain</loc>
-    <lastmod>2025-05-23</lastmod>
+    <lastmod>2025-05-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9964,6 +9970,30 @@
     <loc>https://www.scnsoft.com/ar/insurance/ai-underwriting/calculator</loc>
     <lastmod>2025-05-26</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/about/careers/data-scientist</loc>
+    <lastmod>2025-05-27</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/about/careers/data-scientist-ai</loc>
+    <lastmod>2025-05-27</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/about/careers/senior-flutter-net-developer</loc>
+    <lastmod>2025-05-27</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/about/careers/fullstack-developer</loc>
+    <lastmod>2025-05-27</lastmod>
+    <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
 </urlset>
