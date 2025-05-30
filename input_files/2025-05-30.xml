@@ -32,19 +32,19 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-development/services</loc>
-    <lastmod>2025-04-25</lastmod>
+    <lastmod>2025-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-development/consulting</loc>
-    <lastmod>2025-04-22</lastmod>
+    <lastmod>2025-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-development/custom</loc>
-    <lastmod>2025-04-22</lastmod>
+    <lastmod>2025-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -62,7 +62,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-development/outsourcing/services</loc>
-    <lastmod>2025-03-10</lastmod>
+    <lastmod>2025-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1514,7 +1514,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/iot/industrial</loc>
-    <lastmod>2025-03-18</lastmod>
+    <lastmod>2025-05-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1935,12 +1935,6 @@
   <url>
     <loc>https://www.scnsoft.com/it-operations/support</loc>
     <lastmod>2025-03-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.scnsoft.com/manufacturing</loc>
-    <lastmod>2025-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2721,7 +2715,7 @@
   <url>
     <loc>https://www.scnsoft.com/manufacturing/hmi-software</loc>
     <lastmod>2024-11-15</lastmod>
-    <changefreq>weekly</changefreq>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
@@ -2744,8 +2738,8 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/manufacturing/hmi-development</loc>
-    <lastmod>2025-03-06</lastmod>
-    <changefreq>weekly</changefreq>
+    <lastmod>2025-05-29</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
@@ -3494,8 +3488,8 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/manufacturing/crm</loc>
-    <lastmod>2024-12-31</lastmod>
-    <changefreq>weekly</changefreq>
+    <lastmod>2025-05-29</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
@@ -3830,8 +3824,8 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/manufacturing/machine-monitoring</loc>
-    <lastmod>2024-12-05</lastmod>
-    <changefreq>weekly</changefreq>
+    <lastmod>2025-05-29</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
@@ -3884,8 +3878,8 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/manufacturing/equipment-management</loc>
-    <lastmod>2024-12-05</lastmod>
-    <changefreq>weekly</changefreq>
+    <lastmod>2025-05-29</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
@@ -3914,8 +3908,8 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/manufacturing/equipment-monitoring</loc>
-    <lastmod>2024-12-05</lastmod>
-    <changefreq>weekly</changefreq>
+    <lastmod>2025-05-29</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
@@ -3938,14 +3932,14 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/manufacturing/overall-equipment-effectiveness-software</loc>
-    <lastmod>2024-10-28</lastmod>
-    <changefreq>weekly</changefreq>
+    <lastmod>2025-05-29</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/manufacturing/condition-monitoring</loc>
-    <lastmod>2024-12-05</lastmod>
-    <changefreq>weekly</changefreq>
+    <lastmod>2025-05-29</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
@@ -3986,8 +3980,8 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/manufacturing/product-data-management</loc>
-    <lastmod>2024-12-05</lastmod>
-    <changefreq>weekly</changefreq>
+    <lastmod>2025-05-29</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
@@ -4838,8 +4832,8 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/manufacturing/execution-system</loc>
-    <lastmod>2025-03-07</lastmod>
-    <changefreq>weekly</changefreq>
+    <lastmod>2025-05-29</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
@@ -4856,8 +4850,8 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/manufacturing/production-scheduling-software</loc>
-    <lastmod>2025-03-07</lastmod>
-    <changefreq>weekly</changefreq>
+    <lastmod>2025-05-29</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
@@ -5234,7 +5228,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/manufacturing/data-analytics</loc>
-    <lastmod>2024-11-01</lastmod>
+    <lastmod>2025-05-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8774,8 +8768,8 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/manufacturing/calculator</loc>
-    <lastmod>2025-03-18</lastmod>
-    <changefreq>weekly</changefreq>
+    <lastmod>2025-05-29</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
@@ -9943,9 +9937,21 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.scnsoft.com/manufacturing</loc>
+    <lastmod>2025-05-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.scnsoft.com/healthcare/revenue-cycle-management-software/calculator</loc>
     <lastmod>2025-05-21</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/investment/who-we-serve/family-offices</loc>
+    <lastmod>2025-05-28</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
@@ -9994,6 +10000,24 @@
     <loc>https://www.scnsoft.com/about/careers/fullstack-developer</loc>
     <lastmod>2025-05-27</lastmod>
     <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/manufacturing/search</loc>
+    <lastmod>2025-05-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/manufacturing/news</loc>
+    <lastmod>2025-05-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/manufacturing/testimonials</loc>
+    <lastmod>2025-05-29</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 </urlset>
