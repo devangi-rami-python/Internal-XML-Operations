@@ -116,7 +116,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-development/saas</loc>
-    <lastmod>2025-05-06</lastmod>
+    <lastmod>2025-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -146,7 +146,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-development/java</loc>
-    <lastmod>2025-03-10</lastmod>
+    <lastmod>2025-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -938,13 +938,13 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/augmented-reality</loc>
-    <lastmod>2025-03-06</lastmod>
+    <lastmod>2025-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/it-consulting</loc>
-    <lastmod>2025-05-31</lastmod>
+    <lastmod>2025-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1748,7 +1748,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-development/saas/consulting</loc>
-    <lastmod>2025-05-21</lastmod>
+    <lastmod>2025-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2618,7 +2618,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-development/startup/consulting</loc>
-    <lastmod>2025-03-18</lastmod>
+    <lastmod>2025-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2798,7 +2798,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-development/java/developers-for-hire</loc>
-    <lastmod>2025-03-10</lastmod>
+    <lastmod>2025-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10024,6 +10024,18 @@
     <loc>https://www.scnsoft.com/manufacturing/testimonials</loc>
     <lastmod>2025-05-29</lastmod>
     <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/ar/insurance/analytics</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/ar/insurance/analytics/configurator</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 </urlset>
