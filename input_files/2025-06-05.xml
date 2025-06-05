@@ -20,7 +20,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/management-team</loc>
-    <lastmod>2025-06-02</lastmod>
+    <lastmod>2025-06-04</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1334,7 +1334,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/about/partnerships</loc>
-    <lastmod>2025-01-30</lastmod>
+    <lastmod>2025-06-04</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7532,7 +7532,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/pricing</loc>
-    <lastmod>2025-05-27</lastmod>
+    <lastmod>2025-06-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8948,7 +8948,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-development/about/how-we-work/architecture</loc>
-    <lastmod>2025-03-07</lastmod>
+    <lastmod>2025-06-04</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10066,6 +10066,12 @@
     <loc>https://www.scnsoft.com/ar/insurance/fraud-detection</loc>
     <lastmod>2025-06-03</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/about/partnerships/ispirer</loc>
+    <lastmod>2025-06-04</lastmod>
+    <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
 </urlset>
