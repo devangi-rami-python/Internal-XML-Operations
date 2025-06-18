@@ -8,7 +8,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/about/careers</loc>
-    <lastmod>2025-06-10</lastmod>
+    <lastmod>2025-06-17</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2654,7 +2654,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-development/maintenance-and-support</loc>
-    <lastmod>2025-05-31</lastmod>
+    <lastmod>2025-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4808,7 +4808,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/medical-devices/cybersecurity-assessment</loc>
-    <lastmod>2025-06-11</lastmod>
+    <lastmod>2025-06-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5036,7 +5036,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/insurance/smart-contracts</loc>
-    <lastmod>2025-05-08</lastmod>
+    <lastmod>2025-06-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5978,13 +5978,13 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/consulting</loc>
-    <lastmod>2025-06-16</lastmod>
+    <lastmod>2025-06-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/custom-software-development</loc>
-    <lastmod>2025-06-16</lastmod>
+    <lastmod>2025-06-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8000,7 +8000,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/penetration-testing</loc>
-    <lastmod>2025-06-11</lastmod>
+    <lastmod>2025-06-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10004,7 +10004,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/about/careers/data-scientist</loc>
-    <lastmod>2025-05-27</lastmod>
+    <lastmod>2025-06-17</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10016,7 +10016,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/about/careers/senior-flutter-net-developer</loc>
-    <lastmod>2025-05-27</lastmod>
+    <lastmod>2025-06-17</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10076,7 +10076,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/insurance/fraud-detection</loc>
-    <lastmod>2025-06-03</lastmod>
+    <lastmod>2025-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10101,6 +10101,12 @@
   <url>
     <loc>https://www.scnsoft.com/ar/healthcare/blockchain-for-personal-health-records</loc>
     <lastmod>2025-06-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/ar/healthcare/telemedicine/nursing</loc>
+    <lastmod>2025-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
