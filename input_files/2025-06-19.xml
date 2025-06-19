@@ -8,7 +8,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/about/careers</loc>
-    <lastmod>2025-06-17</lastmod>
+    <lastmod>2025-06-18</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2768,7 +2768,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-development/kiosk</loc>
-    <lastmod>2025-06-02</lastmod>
+    <lastmod>2025-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4628,7 +4628,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/healthcare/telemedicine</loc>
-    <lastmod>2025-01-21</lastmod>
+    <lastmod>2025-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5066,7 +5066,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/manufacturing</loc>
-    <lastmod>2024-12-15</lastmod>
+    <lastmod>2025-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5222,7 +5222,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/transportation-and-logistics</loc>
-    <lastmod>2025-04-09</lastmod>
+    <lastmod>2025-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8384,7 +8384,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/pricing/software-type</loc>
-    <lastmod>2025-01-21</lastmod>
+    <lastmod>2025-06-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10076,7 +10076,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/insurance/fraud-detection</loc>
-    <lastmod>2025-06-17</lastmod>
+    <lastmod>2025-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10107,6 +10107,18 @@
   <url>
     <loc>https://www.scnsoft.com/ar/healthcare/telemedicine/nursing</loc>
     <lastmod>2025-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/ar/manufacturing/calculator</loc>
+    <lastmod>2025-06-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/ar/transportation-and-logistics/calculator</loc>
+    <lastmod>2025-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
