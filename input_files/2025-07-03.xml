@@ -2480,7 +2480,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ecommerce/custom-shopping-cart</loc>
-    <lastmod>2025-03-02</lastmod>
+    <lastmod>2025-07-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5234,7 +5234,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/investment/investor-portal-software</loc>
-    <lastmod>2025-06-27</lastmod>
+    <lastmod>2025-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5930,7 +5930,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/pricing/software-type</loc>
-    <lastmod>2025-06-27</lastmod>
+    <lastmod>2025-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7880,7 +7880,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/employees</loc>
-    <lastmod>2025-06-27</lastmod>
+    <lastmod>2025-07-01</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8798,7 +8798,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/finance/fintech/top-fintech-software-development-companies</loc>
-    <lastmod>2025-06-27</lastmod>
+    <lastmod>2025-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8918,7 +8918,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/top-healthcare-software-development-companies</loc>
-    <lastmod>2025-06-11</lastmod>
+    <lastmod>2025-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9452,7 +9452,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/it-operations/help-desk/top-help-desk-outsourcing-companies</loc>
-    <lastmod>2025-06-30</lastmod>
+    <lastmod>2025-07-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10052,7 +10052,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/insurance/health-insurance-portal</loc>
-    <lastmod>2025-06-30</lastmod>
+    <lastmod>2025-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10082,7 +10082,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/investment/who-we-serve/hedge-funds</loc>
-    <lastmod>2025-06-25</lastmod>
+    <lastmod>2025-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10119,6 +10119,12 @@
   <url>
     <loc>https://www.scnsoft.com/investment/who-we-serve/private-equity-firms</loc>
     <lastmod>2025-06-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/security/penetration-testing/top-penetration-testing-companies</loc>
+    <lastmod>2025-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
