@@ -10196,7 +10196,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/healthcare/telemedicine/neurology</loc>
-    <lastmod>2025-06-29</lastmod>
+    <lastmod>2025-07-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10210,6 +10210,12 @@
     <loc>https://www.scnsoft.com/insurance/portal/configurator</loc>
     <lastmod>2025-07-02</lastmod>
     <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/ar/healthcare/telemedicine/stroke</loc>
+    <lastmod>2025-07-05</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 </urlset>
