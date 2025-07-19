@@ -4664,7 +4664,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/lending</loc>
-    <lastmod>2025-06-27</lastmod>
+    <lastmod>2025-07-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7874,7 +7874,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/employees</loc>
-    <lastmod>2025-07-17</lastmod>
+    <lastmod>2025-07-18</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10276,6 +10276,12 @@
     <loc>https://www.scnsoft.com/investment/who-we-serve/mutual-funds</loc>
     <lastmod>2025-07-16</lastmod>
     <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/ar/healthcare/telemedicine/rural-areas</loc>
+    <lastmod>2025-07-18</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 </urlset>
