@@ -392,7 +392,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/about/careers/software-development</loc>
-    <lastmod>2023-06-19</lastmod>
+    <lastmod>2025-07-22</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -518,7 +518,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/about/careers/testing</loc>
-    <lastmod>2023-03-10</lastmod>
+    <lastmod>2025-07-22</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -542,7 +542,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/about/careers/ict</loc>
-    <lastmod>2023-03-10</lastmod>
+    <lastmod>2025-07-22</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -554,7 +554,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/about/careers/business-analysis</loc>
-    <lastmod>2023-03-10</lastmod>
+    <lastmod>2025-07-22</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -566,13 +566,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/about/careers/marketing-and-sales</loc>
-    <lastmod>2023-03-10</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.scnsoft.com/about/careers/copywriter</loc>
-    <lastmod>2023-06-06</lastmod>
+    <lastmod>2025-07-22</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1016,7 +1010,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/devops</loc>
-    <lastmod>2025-03-11</lastmod>
+    <lastmod>2025-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9110,7 +9104,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/about/careers/information-security</loc>
-    <lastmod>2025-01-10</lastmod>
+    <lastmod>2025-07-22</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9452,7 +9446,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/about/careers/project-management</loc>
-    <lastmod>2025-03-11</lastmod>
+    <lastmod>2025-07-22</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9608,7 +9602,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/about/careers/it-consulting</loc>
-    <lastmod>2025-03-24</lastmod>
+    <lastmod>2025-07-22</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10281,6 +10275,18 @@
   <url>
     <loc>https://www.scnsoft.com/ar/healthcare/telemedicine/rural-areas</loc>
     <lastmod>2025-07-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/ar/healthcare/telemedicine/acute</loc>
+    <lastmod>2025-07-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/ar/healthcare/telemedicine/mental-health</loc>
+    <lastmod>2025-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
