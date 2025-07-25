@@ -1328,7 +1328,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/about/partnerships</loc>
-    <lastmod>2025-06-27</lastmod>
+    <lastmod>2025-07-23</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1394,7 +1394,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/about/partnerships/servicenow</loc>
-    <lastmod>2025-03-18</lastmod>
+    <lastmod>2025-07-23</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4580,13 +4580,13 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/healthcare/wearable-medical-devices</loc>
-    <lastmod>2025-01-10</lastmod>
+    <lastmod>2025-07-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/healthcare/telemedicine</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2025-07-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7801,12 +7801,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.scnsoft.com/ar/healthcare/wearable-medical-devices/calculator</loc>
-    <lastmod>2025-03-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.scnsoft.com/insurance/software-development/health-insurance</loc>
     <lastmod>2025-07-17</lastmod>
     <changefreq>monthly</changefreq>
@@ -8066,7 +8060,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/security/testing/calculator</loc>
-    <lastmod>2025-03-03</lastmod>
+    <lastmod>2025-07-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8335,12 +8329,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.scnsoft.com/ar/lending/calculator</loc>
-    <lastmod>2025-03-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.scnsoft.com/ar/application/support/calculator</loc>
     <lastmod>2025-03-03</lastmod>
     <changefreq>weekly</changefreq>
@@ -8588,13 +8576,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/security/compliance/pci</loc>
-    <lastmod>2025-01-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.scnsoft.com/ar/security/compliance/pci/calculator</loc>
-    <lastmod>2025-03-03</lastmod>
+    <lastmod>2025-07-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9154,12 +9136,6 @@
     <loc>https://www.scnsoft.com/healthcare/pricing/radiology-software-calculator</loc>
     <lastmod>2025-03-03</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.scnsoft.com/software-development/employees</loc>
-    <lastmod>2025-07-04</lastmod>
-    <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
@@ -9914,7 +9890,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/insurance/ai-claims</loc>
-    <lastmod>2025-06-27</lastmod>
+    <lastmod>2025-07-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9938,13 +9914,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/insurance/ai-underwriting</loc>
-    <lastmod>2025-07-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.scnsoft.com/ar/insurance/ai-underwriting/calculator</loc>
-    <lastmod>2025-05-31</lastmod>
+    <lastmod>2025-07-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10009,8 +9979,8 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.scnsoft.com/ar/lending/artificial-intelligence</loc>
-    <lastmod>2025-06-27</lastmod>
+    <loc>https://www.scnsoft.com/ar/lending</loc>
+    <lastmod>2025-07-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10288,6 +10258,12 @@
     <loc>https://www.scnsoft.com/ar/healthcare/telemedicine/mental-health</loc>
     <lastmod>2025-07-22</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/software-development/employees</loc>
+    <lastmod>2025-07-23</lastmod>
+    <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
 </urlset>
