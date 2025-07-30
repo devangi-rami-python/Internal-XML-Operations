@@ -8,7 +8,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/about/careers</loc>
-    <lastmod>2025-06-30</lastmod>
+    <lastmod>2025-07-28</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1256,7 +1256,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/security/testing/services</loc>
-    <lastmod>2025-06-27</lastmod>
+    <lastmod>2025-07-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2894,7 +2894,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-testing/services</loc>
-    <lastmod>2025-06-27</lastmod>
+    <lastmod>2025-07-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3865,6 +3865,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.scnsoft.com/security/testing</loc>
+    <lastmod>2025-07-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.scnsoft.com/scm/supply-chain-visibility</loc>
     <lastmod>2025-07-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -4724,7 +4730,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/lending/loan-management-software</loc>
-    <lastmod>2025-06-27</lastmod>
+    <lastmod>2025-07-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5192,7 +5198,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-testing/calculator</loc>
-    <lastmod>2025-03-03</lastmod>
+    <lastmod>2025-07-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5918,7 +5924,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/pricing/software-type</loc>
-    <lastmod>2025-07-25</lastmod>
+    <lastmod>2025-07-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6908,7 +6914,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/pricing</loc>
-    <lastmod>2025-07-25</lastmod>
+    <lastmod>2025-07-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7022,7 +7028,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/about/careers/support-engineer-english</loc>
-    <lastmod>2025-02-24</lastmod>
+    <lastmod>2025-07-28</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7586,7 +7592,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-testing/pricing</loc>
-    <lastmod>2025-06-27</lastmod>
+    <lastmod>2025-07-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8780,7 +8786,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/security</loc>
-    <lastmod>2025-07-24</lastmod>
+    <lastmod>2025-07-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9416,7 +9422,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/it-operations/help-desk/top-help-desk-outsourcing-companies</loc>
-    <lastmod>2025-07-01</lastmod>
+    <lastmod>2025-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9926,7 +9932,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/about/careers/data-scientist-ai</loc>
-    <lastmod>2025-07-25</lastmod>
+    <lastmod>2025-07-28</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10268,8 +10274,32 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/finance/employees</loc>
-    <lastmod>2025-07-27</lastmod>
+    <lastmod>2025-07-28</lastmod>
     <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/ar/healthcare/virtual-hospital</loc>
+    <lastmod>2025-07-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/about/careers/solution-architect</loc>
+    <lastmod>2025-07-28</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/ar/healthcare/artificial-intelligence-treatment-personalization</loc>
+    <lastmod>2025-07-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/ar/healthcare/artificial-intelligence-treatment-personalization/calculator</loc>
+    <lastmod>2025-07-28</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 </urlset>
