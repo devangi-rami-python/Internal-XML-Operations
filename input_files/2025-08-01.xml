@@ -890,7 +890,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/web-development/application</loc>
-    <lastmod>2025-07-26</lastmod>
+    <lastmod>2025-07-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3866,7 +3866,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/security/testing</loc>
-    <lastmod>2025-07-28</lastmod>
+    <lastmod>2025-07-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4214,7 +4214,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/security/audit</loc>
-    <lastmod>2025-07-17</lastmod>
+    <lastmod>2025-07-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4226,7 +4226,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/security/assessment/applications</loc>
-    <lastmod>2025-06-16</lastmod>
+    <lastmod>2025-07-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4256,7 +4256,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/security/assessment/risk</loc>
-    <lastmod>2025-06-27</lastmod>
+    <lastmod>2025-07-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4772,7 +4772,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/medical-devices/cybersecurity-assessment</loc>
-    <lastmod>2025-06-27</lastmod>
+    <lastmod>2025-07-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5936,7 +5936,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare</loc>
-    <lastmod>2025-07-27</lastmod>
+    <lastmod>2025-07-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9278,7 +9278,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/insurance/large-language-models</loc>
-    <lastmod>2025-06-27</lastmod>
+    <lastmod>2025-07-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10264,6 +10264,12 @@
     <loc>https://www.scnsoft.com/software-development/employees</loc>
     <lastmod>2025-07-23</lastmod>
     <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/healthcare/software-product-development</loc>
+    <lastmod>2025-07-30</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
