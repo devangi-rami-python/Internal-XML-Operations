@@ -8,7 +8,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/about/careers</loc>
-    <lastmod>2025-07-28</lastmod>
+    <lastmod>2025-08-04</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1130,7 +1130,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/security/penetration-testing</loc>
-    <lastmod>2025-07-31</lastmod>
+    <lastmod>2025-08-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1196,7 +1196,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/web-portals/customer/development</loc>
-    <lastmod>2025-07-27</lastmod>
+    <lastmod>2025-08-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1232,7 +1232,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/finance/software-development</loc>
-    <lastmod>2025-07-31</lastmod>
+    <lastmod>2025-08-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1256,7 +1256,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/security/testing/services</loc>
-    <lastmod>2025-07-28</lastmod>
+    <lastmod>2025-08-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1280,7 +1280,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/security/vulnerability-assessment</loc>
-    <lastmod>2025-06-13</lastmod>
+    <lastmod>2025-08-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1598,7 +1598,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/fleet-management/vehicle-tracking</loc>
-    <lastmod>2025-07-04</lastmod>
+    <lastmod>2025-08-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4898,7 +4898,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/it-operations/support</loc>
-    <lastmod>2025-03-27</lastmod>
+    <lastmod>2025-08-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5186,7 +5186,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/transportation-and-logistics</loc>
-    <lastmod>2025-06-18</lastmod>
+    <lastmod>2025-08-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7430,7 +7430,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/about/careers/senior-python-developer-django</loc>
-    <lastmod>2025-03-11</lastmod>
+    <lastmod>2025-08-04</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8204,7 +8204,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/about/careers/l1-l2-support-engineer</loc>
-    <lastmod>2024-08-01</lastmod>
+    <lastmod>2025-08-04</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8624,7 +8624,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/finance/crm</loc>
-    <lastmod>2025-07-25</lastmod>
+    <lastmod>2025-08-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8654,7 +8654,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/finance/intranet</loc>
-    <lastmod>2025-07-25</lastmod>
+    <lastmod>2025-08-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9104,7 +9104,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/about/careers/senior-c-plus-plus-developer</loc>
-    <lastmod>2025-06-30</lastmod>
+    <lastmod>2025-08-04</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9608,7 +9608,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/investment/wealth-management</loc>
-    <lastmod>2025-07-27</lastmod>
+    <lastmod>2025-08-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10250,13 +10250,13 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/healthcare/telemedicine/acute</loc>
-    <lastmod>2025-08-02</lastmod>
+    <lastmod>2025-08-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/healthcare/telemedicine/mental-health</loc>
-    <lastmod>2025-08-02</lastmod>
+    <lastmod>2025-08-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10360,6 +10360,24 @@
     <loc>https://www.scnsoft.com/ar/healthcare/clinical-trials/ctms/calculator</loc>
     <lastmod>2025-08-03</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/about/careers/senior-data-engineer</loc>
+    <lastmod>2025-08-04</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/about/careers/microsoft-devops-engineer</loc>
+    <lastmod>2025-08-04</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/about/careers/senior-cloud-engineer</loc>
+    <lastmod>2025-08-04</lastmod>
+    <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
 </urlset>
