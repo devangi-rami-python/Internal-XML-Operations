@@ -1256,7 +1256,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/security/testing/services</loc>
-    <lastmod>2025-08-04</lastmod>
+    <lastmod>2025-08-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3590,7 +3590,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/security/penetration-testing/costs</loc>
-    <lastmod>2025-08-06</lastmod>
+    <lastmod>2025-08-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3866,7 +3866,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/security/testing</loc>
-    <lastmod>2025-07-30</lastmod>
+    <lastmod>2025-08-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4562,7 +4562,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/security/assessment/cloud</loc>
-    <lastmod>2025-08-07</lastmod>
+    <lastmod>2025-08-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4598,7 +4598,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/security/vulnerability-management</loc>
-    <lastmod>2025-08-07</lastmod>
+    <lastmod>2025-08-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5348,7 +5348,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/blockchain/development/calculator</loc>
-    <lastmod>2025-04-09</lastmod>
+    <lastmod>2025-08-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10327,20 +10327,32 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.scnsoft.com/healthcare/about/how-we-work/knowledge-transfer</loc>
+    <lastmod>2025-08-08</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/investment/software-product-development</loc>
+    <lastmod>2025-08-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.scnsoft.com/ar/healthcare/artificial-intelligence-medical-diagnosis</loc>
-    <lastmod>2025-08-06</lastmod>
+    <lastmod>2025-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/healthcare/chatbots</loc>
-    <lastmod>2025-08-02</lastmod>
+    <lastmod>2025-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/healthcare/clinical-decision-support-system</loc>
-    <lastmod>2025-08-03</lastmod>
+    <lastmod>2025-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
