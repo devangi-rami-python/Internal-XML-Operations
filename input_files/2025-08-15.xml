@@ -908,19 +908,19 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/application/mobile/development</loc>
-    <lastmod>2025-07-26</lastmod>
+    <lastmod>2025-08-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/application/mobile/consulting</loc>
-    <lastmod>2025-06-27</lastmod>
+    <lastmod>2025-08-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/application/mobile/development/ios</loc>
-    <lastmod>2025-06-27</lastmod>
+    <lastmod>2025-08-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1712,7 +1712,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/application/mobile/development/android</loc>
-    <lastmod>2025-06-27</lastmod>
+    <lastmod>2025-08-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3272,7 +3272,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/web-development/hire-web-developers</loc>
-    <lastmod>2025-08-12</lastmod>
+    <lastmod>2025-08-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3464,7 +3464,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-development/front-end/developers-for-hire</loc>
-    <lastmod>2025-08-12</lastmod>
+    <lastmod>2025-08-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5966,7 +5966,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/web-design-development</loc>
-    <lastmod>2025-08-13</lastmod>
+    <lastmod>2025-08-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6200,7 +6200,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/image-analysis-software</loc>
-    <lastmod>2025-08-07</lastmod>
+    <lastmod>2025-08-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9110,7 +9110,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/picture-archiving-and-communication-system</loc>
-    <lastmod>2025-07-16</lastmod>
+    <lastmod>2025-08-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9248,7 +9248,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/radiology-information-system</loc>
-    <lastmod>2025-08-13</lastmod>
+    <lastmod>2025-08-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9644,7 +9644,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/health-information-exchange-portal</loc>
-    <lastmod>2025-08-06</lastmod>
+    <lastmod>2025-08-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9662,7 +9662,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/clinical-decision-support-system</loc>
-    <lastmod>2025-08-13</lastmod>
+    <lastmod>2025-08-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10166,7 +10166,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/laboratory-software-development</loc>
-    <lastmod>2025-08-13</lastmod>
+    <lastmod>2025-08-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10334,7 +10334,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/investment/software-product-development</loc>
-    <lastmod>2025-08-13</lastmod>
+    <lastmod>2025-08-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10402,6 +10402,12 @@
     <loc>https://www.scnsoft.com/healthcare/about/how-we-work/software-compliance</loc>
     <lastmod>2025-08-13</lastmod>
     <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/investment/real-estate-investment-management-software</loc>
+    <lastmod>2025-08-14</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 </urlset>
