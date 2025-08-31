@@ -170,7 +170,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/microsoft/sharepoint-microsoft-365</loc>
-    <lastmod>2025-06-27</lastmod>
+    <lastmod>2025-08-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -992,7 +992,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/it-operations/managed/azure</loc>
-    <lastmod>2025-06-30</lastmod>
+    <lastmod>2025-08-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1802,7 +1802,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/microsoft/dynamics-365</loc>
-    <lastmod>2025-07-07</lastmod>
+    <lastmod>2025-08-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1970,7 +1970,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/data/business-intelligence/microsoft/power-bi</loc>
-    <lastmod>2024-12-04</lastmod>
+    <lastmod>2025-08-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3746,7 +3746,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/microsoft/power-apps</loc>
-    <lastmod>2025-06-27</lastmod>
+    <lastmod>2025-08-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4418,7 +4418,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/microsoft</loc>
-    <lastmod>2025-06-27</lastmod>
+    <lastmod>2025-08-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4448,7 +4448,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/about/partnerships/microsoft</loc>
-    <lastmod>2025-06-27</lastmod>
+    <lastmod>2025-08-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10268,7 +10268,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/software-product-development</loc>
-    <lastmod>2025-08-13</lastmod>
+    <lastmod>2025-08-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10419,6 +10419,30 @@
   <url>
     <loc>https://www.scnsoft.com/healthcare/ehr/oncology</loc>
     <lastmod>2025-08-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/ar/healthcare/revenue-cycle-management-software</loc>
+    <lastmod>2025-08-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/ar/healthcare/revenue-cycle-management-software/calculator</loc>
+    <lastmod>2025-08-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/ar/healthcare/laboratory-software-development/lims</loc>
+    <lastmod>2025-08-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/ar/healthcare/laboratory-software-development/lims/calculator</loc>
+    <lastmod>2025-08-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
