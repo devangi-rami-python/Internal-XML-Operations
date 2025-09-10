@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.scnsoft.com/</loc>
-    <lastmod>2025-09-04</lastmod>
+    <lastmod>2025-09-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/about/careers</loc>
-    <lastmod>2025-08-11</lastmod>
+    <lastmod>2025-09-09</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6602,7 +6602,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/banking</loc>
-    <lastmod>2025-02-23</lastmod>
+    <lastmod>2025-09-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7370,13 +7370,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/banking/mobile-app-development</loc>
-    <lastmod>2025-06-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.scnsoft.com/ar/banking/mobile-app-development/calculator</loc>
-    <lastmod>2025-09-04</lastmod>
+    <lastmod>2025-09-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8204,7 +8198,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/about/careers/l1-l2-support-engineer</loc>
-    <lastmod>2025-08-04</lastmod>
+    <lastmod>2025-09-09</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8330,7 +8324,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/pricing/software-type</loc>
-    <lastmod>2025-06-27</lastmod>
+    <lastmod>2025-09-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9512,7 +9506,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/clinical-trials/calculator</loc>
-    <lastmod>2025-03-21</lastmod>
+    <lastmod>2025-09-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9716,7 +9710,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/about/careers/presales-manager</loc>
-    <lastmod>2025-04-15</lastmod>
+    <lastmod>2025-09-09</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10016,7 +10010,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/about/careers/junior-project-manager</loc>
-    <lastmod>2025-06-10</lastmod>
+    <lastmod>2025-09-09</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10190,7 +10184,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/about/careers/senior-opensource-engineer</loc>
-    <lastmod>2025-06-30</lastmod>
+    <lastmod>2025-09-09</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10474,6 +10468,24 @@
     <loc>https://www.scnsoft.com/healthcare/ehr/radiology/calculator</loc>
     <lastmod>2025-09-04</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/ar/banking/calculator</loc>
+    <lastmod>2025-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/about/careers/middle-servicenow-developer</loc>
+    <lastmod>2025-09-09</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/about/careers/middle-opensource-engineer</loc>
+    <lastmod>2025-09-09</lastmod>
+    <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
 </urlset>
