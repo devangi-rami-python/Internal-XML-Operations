@@ -5162,7 +5162,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/investment</loc>
-    <lastmod>2025-09-11</lastmod>
+    <lastmod>2025-09-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7802,7 +7802,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/insurance/software-development/health-insurance</loc>
-    <lastmod>2025-09-19</lastmod>
+    <lastmod>2025-09-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8642,7 +8642,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/investment/portfolio-management-software</loc>
-    <lastmod>2025-08-05</lastmod>
+    <lastmod>2025-09-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10142,7 +10142,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/investment/investment-management-software</loc>
-    <lastmod>2025-09-17</lastmod>
+    <lastmod>2025-09-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10466,7 +10466,13 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/healthcare/laboratory-software-development</loc>
-    <lastmod>2025-09-17</lastmod>
+    <lastmod>2025-09-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/ar/healthcare/laboratory-software-development/lis</loc>
+    <lastmod>2025-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10479,6 +10485,12 @@
   <url>
     <loc>https://www.scnsoft.com/healthcare/ehr/radiology/calculator</loc>
     <lastmod>2025-09-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/investment/help-desk</loc>
+    <lastmod>2025-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10510,6 +10522,12 @@
     <loc>https://www.scnsoft.com/about/careers/middle-opensource-engineer</loc>
     <lastmod>2025-09-09</lastmod>
     <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/investment/performance-attribution-software</loc>
+    <lastmod>2025-09-20</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 </urlset>
