@@ -4388,7 +4388,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/application/mobile-app-development</loc>
-    <lastmod>2025-09-18</lastmod>
+    <lastmod>2025-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8936,7 +8936,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/about/mission</loc>
-    <lastmod>2025-09-10</lastmod>
+    <lastmod>2025-09-25</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10521,6 +10521,12 @@
   <url>
     <loc>https://www.scnsoft.com/about/careers/middle-opensource-engineer</loc>
     <lastmod>2025-09-09</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/healthcare/employees</loc>
+    <lastmod>2025-09-25</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
