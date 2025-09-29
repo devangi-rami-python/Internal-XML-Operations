@@ -5162,7 +5162,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/investment</loc>
-    <lastmod>2025-09-21</lastmod>
+    <lastmod>2025-09-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8642,7 +8642,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/investment/portfolio-management-software</loc>
-    <lastmod>2025-09-21</lastmod>
+    <lastmod>2025-09-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9602,7 +9602,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/investment/wealth-management</loc>
-    <lastmod>2025-09-21</lastmod>
+    <lastmod>2025-09-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9734,7 +9734,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/investment/who-we-serve/wealth-management-companies</loc>
-    <lastmod>2025-09-21</lastmod>
+    <lastmod>2025-09-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9998,7 +9998,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/investment/who-we-serve/asset-management-companies</loc>
-    <lastmod>2025-09-22</lastmod>
+    <lastmod>2025-09-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10034,7 +10034,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/investment/who-we-serve/hedge-funds</loc>
-    <lastmod>2025-09-22</lastmod>
+    <lastmod>2025-09-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10142,7 +10142,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/investment/investment-management-software</loc>
-    <lastmod>2025-09-22</lastmod>
+    <lastmod>2025-09-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10154,7 +10154,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/investment/who-we-serve/closed-end-funds</loc>
-    <lastmod>2025-09-22</lastmod>
+    <lastmod>2025-09-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10220,7 +10220,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/investment/who-we-serve/exchange-traded-funds</loc>
-    <lastmod>2025-09-21</lastmod>
+    <lastmod>2025-09-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10232,7 +10232,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/investment/who-we-serve/mutual-funds</loc>
-    <lastmod>2025-09-22</lastmod>
+    <lastmod>2025-09-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10495,6 +10495,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.scnsoft.com/about/how-we-hire</loc>
+    <lastmod>2025-09-28</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.scnsoft.com/investment/trading-app-development</loc>
     <lastmod>2025-09-21</lastmod>
     <changefreq>monthly</changefreq>
@@ -10533,6 +10539,12 @@
   <url>
     <loc>https://www.scnsoft.com/investment/performance-attribution-software</loc>
     <lastmod>2025-09-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/investment/order-management-system</loc>
+    <lastmod>2025-09-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
