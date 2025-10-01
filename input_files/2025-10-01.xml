@@ -4340,7 +4340,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2025-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6224,7 +6224,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/telemedicine/pediatric</loc>
-    <lastmod>2025-06-27</lastmod>
+    <lastmod>2025-09-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6236,7 +6236,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/telemedicine/physical-therapy</loc>
-    <lastmod>2025-06-27</lastmod>
+    <lastmod>2025-09-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6248,13 +6248,13 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/telemedicine/neurology</loc>
-    <lastmod>2025-08-13</lastmod>
+    <lastmod>2025-09-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/telemedicine/acute</loc>
-    <lastmod>2025-06-27</lastmod>
+    <lastmod>2025-09-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6266,19 +6266,19 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/telemedicine/primary-care</loc>
-    <lastmod>2025-08-13</lastmod>
+    <lastmod>2025-09-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/telemedicine/rural-areas</loc>
-    <lastmod>2025-07-04</lastmod>
+    <lastmod>2025-09-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/telemedicine/stroke</loc>
-    <lastmod>2025-06-27</lastmod>
+    <lastmod>2025-09-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6290,7 +6290,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/telemedicine/nursing</loc>
-    <lastmod>2025-07-27</lastmod>
+    <lastmod>2025-09-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7976,7 +7976,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/data/about</loc>
-    <lastmod>2025-09-10</lastmod>
+    <lastmod>2025-09-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8228,7 +8228,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/software-development/saas</loc>
-    <lastmod>2025-09-22</lastmod>
+    <lastmod>2025-09-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8936,7 +8936,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/about/mission</loc>
-    <lastmod>2025-09-25</lastmod>
+    <lastmod>2025-09-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10496,7 +10496,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/about/how-we-hire</loc>
-    <lastmod>2025-09-28</lastmod>
+    <lastmod>2025-09-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10538,7 +10538,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/investment/performance-attribution-software</loc>
-    <lastmod>2025-09-21</lastmod>
+    <lastmod>2025-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10546,6 +10546,24 @@
     <loc>https://www.scnsoft.com/investment/order-management-system</loc>
     <lastmod>2025-09-28</lastmod>
     <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/software-development/back-end</loc>
+    <lastmod>2025-09-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/web-portals/customer-engagement-portal</loc>
+    <lastmod>2025-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/ar/healthcare/radiology-information-system</loc>
+    <lastmod>2025-09-30</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 </urlset>
