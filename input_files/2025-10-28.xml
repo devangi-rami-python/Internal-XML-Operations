@@ -44,7 +44,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-development/custom</loc>
-    <lastmod>2025-09-10</lastmod>
+    <lastmod>2025-10-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -734,7 +734,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/data/big-data</loc>
-    <lastmod>2025-10-10</lastmod>
+    <lastmod>2025-10-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -758,7 +758,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/data/big-data/consulting</loc>
-    <lastmod>2025-10-10</lastmod>
+    <lastmod>2025-10-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1124,7 +1124,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-development/dedicated-teams</loc>
-    <lastmod>2025-09-10</lastmod>
+    <lastmod>2025-10-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1832,13 +1832,13 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/elearning/lms/custom</loc>
-    <lastmod>2025-10-21</lastmod>
+    <lastmod>2025-10-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/cms/custom</loc>
-    <lastmod>2025-10-10</lastmod>
+    <lastmod>2025-10-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2180,7 +2180,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ecommerce</loc>
-    <lastmod>2025-10-25</lastmod>
+    <lastmod>2025-10-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2936,7 +2936,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-testing/services/automated</loc>
-    <lastmod>2025-10-23</lastmod>
+    <lastmod>2025-10-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3002,7 +3002,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-testing/qa-automation</loc>
-    <lastmod>2025-06-27</lastmod>
+    <lastmod>2025-10-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3254,7 +3254,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/web-portals/customer</loc>
-    <lastmod>2025-10-21</lastmod>
+    <lastmod>2025-10-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4166,7 +4166,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/experts</loc>
-    <lastmod>2025-10-04</lastmod>
+    <lastmod>2025-10-27</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4826,7 +4826,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ecommerce/ecommerce-crm</loc>
-    <lastmod>2025-06-27</lastmod>
+    <lastmod>2025-10-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5150,7 +5150,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ecommerce/ecommerce-business-intelligence</loc>
-    <lastmod>2025-06-27</lastmod>
+    <lastmod>2025-10-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6914,7 +6914,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ecommerce/about</loc>
-    <lastmod>2025-10-25</lastmod>
+    <lastmod>2025-10-27</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7592,7 +7592,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-testing/pricing</loc>
-    <lastmod>2025-10-10</lastmod>
+    <lastmod>2025-10-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10622,7 +10622,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/web-portals/customer/consulting-client-portal</loc>
-    <lastmod>2025-10-23</lastmod>
+    <lastmod>2025-10-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10636,6 +10636,12 @@
     <loc>https://www.scnsoft.com/ar/finance/pricing/software-type</loc>
     <lastmod>2025-10-14</lastmod>
     <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/healthcare/ehr/general-surgery</loc>
+    <lastmod>2025-10-27</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
