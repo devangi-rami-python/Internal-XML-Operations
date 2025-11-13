@@ -2246,7 +2246,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ecommerce/services/development</loc>
-    <lastmod>2025-10-30</lastmod>
+    <lastmod>2025-11-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6008,7 +6008,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/mobile/hospital-apps</loc>
-    <lastmod>2025-10-29</lastmod>
+    <lastmod>2025-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6044,7 +6044,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/mobile/hospital-apps/demo</loc>
-    <lastmod>2024-06-24</lastmod>
+    <lastmod>2025-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6068,7 +6068,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/hipaa-compliance/clouds</loc>
-    <lastmod>2025-10-13</lastmod>
+    <lastmod>2025-11-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6944,7 +6944,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/it-outsourcing</loc>
-    <lastmod>2025-10-10</lastmod>
+    <lastmod>2025-11-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7694,7 +7694,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/medical-devices/artificial-intelligence</loc>
-    <lastmod>2025-10-10</lastmod>
+    <lastmod>2025-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7868,7 +7868,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/mobile/health-monitoring-apps</loc>
-    <lastmod>2025-10-13</lastmod>
+    <lastmod>2025-11-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9662,7 +9662,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/medical-diagnosis-software</loc>
-    <lastmod>2025-10-13</lastmod>
+    <lastmod>2025-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9794,7 +9794,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/medical-devices/connected/cloud</loc>
-    <lastmod>2025-10-14</lastmod>
+    <lastmod>2025-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10166,7 +10166,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/medical-devices/wearable/health-monitoring</loc>
-    <lastmod>2025-10-06</lastmod>
+    <lastmod>2025-11-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10214,7 +10214,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/life-sciences-software-development</loc>
-    <lastmod>2025-10-31</lastmod>
+    <lastmod>2025-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10891,6 +10891,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.scnsoft.com/healthcare/medical-devices/diabetes-monitoring</loc>
+    <lastmod>2025-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.scnsoft.com/ar/healthcare/clinical-trials</loc>
     <lastmod>2025-11-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -10911,6 +10917,12 @@
   <url>
     <loc>https://www.scnsoft.com/ar/healthcare/clinical-trials/portals/calculator</loc>
     <lastmod>2025-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/ar/healthcare/clinical-trials/etmf</loc>
+    <lastmod>2025-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
