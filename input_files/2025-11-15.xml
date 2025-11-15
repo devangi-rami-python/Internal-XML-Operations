@@ -1910,7 +1910,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/about/awards</loc>
-    <lastmod>2025-11-13</lastmod>
+    <lastmod>2025-11-14</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5174,7 +5174,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/investment</loc>
-    <lastmod>2025-11-07</lastmod>
+    <lastmod>2025-11-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6014,7 +6014,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/mobile/patient-apps</loc>
-    <lastmod>2025-11-13</lastmod>
+    <lastmod>2025-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6872,7 +6872,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/about</loc>
-    <lastmod>2025-11-13</lastmod>
+    <lastmod>2025-11-14</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7166,7 +7166,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/finance/about</loc>
-    <lastmod>2025-11-11</lastmod>
+    <lastmod>2025-11-14</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7790,7 +7790,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/investment/artificial-intelligence</loc>
-    <lastmod>2025-11-06</lastmod>
+    <lastmod>2025-11-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9620,7 +9620,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/investment/wealth-management</loc>
-    <lastmod>2025-10-24</lastmod>
+    <lastmod>2025-11-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9710,7 +9710,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/investment/large-language-models</loc>
-    <lastmod>2025-10-09</lastmod>
+    <lastmod>2025-11-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9752,7 +9752,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/investment/who-we-serve/wealth-management-companies</loc>
-    <lastmod>2025-11-06</lastmod>
+    <lastmod>2025-11-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10082,7 +10082,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/investment/who-we-serve/investment-advisors</loc>
-    <lastmod>2025-10-24</lastmod>
+    <lastmod>2025-11-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10136,7 +10136,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/investment/investment-research-software</loc>
-    <lastmod>2025-11-06</lastmod>
+    <lastmod>2025-11-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10346,7 +10346,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/investment/software-product-development</loc>
-    <lastmod>2025-11-07</lastmod>
+    <lastmod>2025-11-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10520,7 +10520,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/investment/trading-app-development</loc>
-    <lastmod>2025-10-24</lastmod>
+    <lastmod>2025-11-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10592,7 +10592,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/investment/who-we-serve/wealthtech-companies</loc>
-    <lastmod>2025-11-04</lastmod>
+    <lastmod>2025-11-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10885,6 +10885,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.scnsoft.com/software-development/full-stack</loc>
+    <lastmod>2025-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.scnsoft.com/investment/client-lifecycle-management-software/calculator</loc>
     <lastmod>2025-10-31</lastmod>
     <changefreq>monthly</changefreq>
@@ -10900,6 +10906,12 @@
     <loc>https://www.scnsoft.com/healthcare/medical-devices/diabetes-monitoring</loc>
     <lastmod>2025-11-12</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/investment/robo-advisor-development</loc>
+    <lastmod>2025-11-14</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
@@ -10934,7 +10946,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/investment/family-offices</loc>
-    <lastmod>2025-11-13</lastmod>
+    <lastmod>2025-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10946,7 +10958,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/investment/private-equity-firms</loc>
-    <lastmod>2025-11-13</lastmod>
+    <lastmod>2025-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
