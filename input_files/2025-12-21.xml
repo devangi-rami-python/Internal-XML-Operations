@@ -20,7 +20,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/management-team</loc>
-    <lastmod>2025-12-01</lastmod>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1886,7 +1886,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/data/analytics/managed</loc>
-    <lastmod>2025-10-10</lastmod>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2864,7 +2864,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/iot/testing</loc>
-    <lastmod>2025-12-19</lastmod>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11170,6 +11170,18 @@
     <loc>https://www.scnsoft.com/investment/compliance-management-software</loc>
     <lastmod>2025-12-19</lastmod>
     <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/about/how-we-work/architecture-coe</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/about/how-we-work/pmo</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
 </urlset>
