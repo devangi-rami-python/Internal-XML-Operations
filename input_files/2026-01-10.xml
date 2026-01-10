@@ -4622,7 +4622,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/aws/testimonials</loc>
-    <lastmod>2025-10-14</lastmod>
+    <lastmod>2026-01-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6440,7 +6440,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/about/testimonials</loc>
-    <lastmod>2025-10-28</lastmod>
+    <lastmod>2026-01-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7088,7 +7088,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/finance/about/testimonials</loc>
-    <lastmod>2025-10-03</lastmod>
+    <lastmod>2026-01-09</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8000,7 +8000,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/data/about/testimonials</loc>
-    <lastmod>2025-10-10</lastmod>
+    <lastmod>2026-01-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8516,7 +8516,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/it-operations/about/testimonials</loc>
-    <lastmod>2025-10-14</lastmod>
+    <lastmod>2026-01-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8822,7 +8822,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/security/about/testimonials</loc>
-    <lastmod>2025-10-14</lastmod>
+    <lastmod>2026-01-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9782,7 +9782,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/web-portals/about/testimonials</loc>
-    <lastmod>2025-04-25</lastmod>
+    <lastmod>2026-01-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9992,7 +9992,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/manufacturing/testimonials</loc>
-    <lastmod>2025-10-01</lastmod>
+    <lastmod>2026-01-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10034,7 +10034,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/insurance/health-insurance-portal</loc>
-    <lastmod>2025-12-06</lastmod>
+    <lastmod>2026-01-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10118,7 +10118,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/transportation-and-logistics/testimonials</loc>
-    <lastmod>2025-11-05</lastmod>
+    <lastmod>2026-01-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10436,7 +10436,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/artificial-intelligence/about/testimonials</loc>
-    <lastmod>2025-10-06</lastmod>
+    <lastmod>2026-01-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10682,7 +10682,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-development/top-software-development-companies</loc>
-    <lastmod>2025-11-03</lastmod>
+    <lastmod>2026-01-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11192,19 +11192,19 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/insurance</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/insurance/about</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-09</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/insurance/mission</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-09</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11222,7 +11222,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/who-we-serve/aco</loc>
-    <lastmod>2026-01-06</lastmod>
+    <lastmod>2026-01-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11343,6 +11343,12 @@
   <url>
     <loc>https://www.scnsoft.com/insurance/news</loc>
     <lastmod>2026-01-08</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/insurance/testimonials</loc>
+    <lastmod>2026-01-09</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
