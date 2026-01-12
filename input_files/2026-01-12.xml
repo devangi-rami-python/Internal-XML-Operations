@@ -7628,7 +7628,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/about/mission</loc>
-    <lastmod>2026-01-10</lastmod>
+    <lastmod>2026-01-11</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11284,6 +11284,12 @@
     <loc>https://www.scnsoft.com/healthcare/ehr/long-term-care</loc>
     <lastmod>2026-01-05</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/investment/deal-management-software</loc>
+    <lastmod>2026-01-11</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
