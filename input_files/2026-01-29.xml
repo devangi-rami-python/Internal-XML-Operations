@@ -1610,7 +1610,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-development/feasibility-study</loc>
-    <lastmod>2026-01-22</lastmod>
+    <lastmod>2026-01-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2366,7 +2366,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ecommerce/magento/services/development/custom</loc>
-    <lastmod>2024-05-21</lastmod>
+    <lastmod>2026-01-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2396,7 +2396,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ecommerce/magento/partner</loc>
-    <lastmod>2025-10-28</lastmod>
+    <lastmod>2026-01-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6608,7 +6608,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/investment</loc>
-    <lastmod>2026-01-20</lastmod>
+    <lastmod>2026-01-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6620,7 +6620,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/banking</loc>
-    <lastmod>2025-10-30</lastmod>
+    <lastmod>2026-01-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7388,7 +7388,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/banking/mobile-app-development</loc>
-    <lastmod>2025-10-16</lastmod>
+    <lastmod>2026-01-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9890,7 +9890,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/investment/blockchain</loc>
-    <lastmod>2025-12-29</lastmod>
+    <lastmod>2026-01-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11431,9 +11431,21 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.scnsoft.com/ar/investment/artificial-intelligence</loc>
+    <lastmod>2026-01-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.scnsoft.com/ar/investment/artificial-intelligence/calculator</loc>
     <lastmod>2026-01-25</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/healthcare/pricing/long-term-software-calculator</loc>
+    <lastmod>2026-01-27</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 </urlset>
