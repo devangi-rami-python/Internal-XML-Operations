@@ -152,7 +152,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-development/dotnet</loc>
-    <lastmod>2025-12-23</lastmod>
+    <lastmod>2026-01-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -854,7 +854,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/application/modernization</loc>
-    <lastmod>2025-12-23</lastmod>
+    <lastmod>2026-01-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1178,7 +1178,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/web-portals/development</loc>
-    <lastmod>2025-12-01</lastmod>
+    <lastmod>2026-01-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1196,7 +1196,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/web-portals/customer/development</loc>
-    <lastmod>2025-12-10</lastmod>
+    <lastmod>2026-01-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1748,7 +1748,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-development/startup</loc>
-    <lastmod>2025-12-23</lastmod>
+    <lastmod>2026-01-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2480,7 +2480,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-development/mvp</loc>
-    <lastmod>2025-12-23</lastmod>
+    <lastmod>2026-01-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2552,7 +2552,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-development/startup/how-to-launch</loc>
-    <lastmod>2026-01-23</lastmod>
+    <lastmod>2026-01-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2582,7 +2582,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-development/startup/consulting</loc>
-    <lastmod>2026-01-23</lastmod>
+    <lastmod>2026-01-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2654,7 +2654,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-development/startup/how-to-launch-a-saas-startup</loc>
-    <lastmod>2025-12-23</lastmod>
+    <lastmod>2026-01-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2696,7 +2696,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-development/start-a-software-company</loc>
-    <lastmod>2026-01-23</lastmod>
+    <lastmod>2026-01-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3260,7 +3260,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/web-portals/customer</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3626,7 +3626,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-development/startup/how-to-hire-developers</loc>
-    <lastmod>2025-11-09</lastmod>
+    <lastmod>2026-01-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5888,7 +5888,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-development/mvp/services</loc>
-    <lastmod>2026-01-23</lastmod>
+    <lastmod>2026-01-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6608,7 +6608,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/investment</loc>
-    <lastmod>2026-01-27</lastmod>
+    <lastmod>2026-01-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11414,7 +11414,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/who-we-serve/cardiology</loc>
-    <lastmod>2026-01-26</lastmod>
+    <lastmod>2026-01-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11427,6 +11427,12 @@
   <url>
     <loc>https://www.scnsoft.com/ar/investment/blockchain/asset-tokenization/calculator</loc>
     <lastmod>2026-01-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/healthcare/senior-living-care-platform</loc>
+    <lastmod>2026-01-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
