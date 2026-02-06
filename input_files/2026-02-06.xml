@@ -7,12 +7,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.scnsoft.com/about/careers</loc>
-    <lastmod>2025-12-29</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.scnsoft.com/microsoft/microsoft-365/migration/calculator</loc>
     <lastmod>2025-03-03</lastmod>
     <changefreq>monthly</changefreq>
@@ -500,12 +494,6 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/about/careers/senior-python-developer-flask</loc>
-    <lastmod>2025-11-20</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.scnsoft.com/about/careers/senior-servicenow-developer</loc>
     <lastmod>2025-11-20</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
@@ -5485,12 +5473,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.scnsoft.com/about/careers/senior-business-analyst-healthcare</loc>
-    <lastmod>2025-11-28</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.scnsoft.com/insurance/ai-underwriting</loc>
     <lastmod>2026-01-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -5546,7 +5528,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/data/business-intelligence/calculator</loc>
-    <lastmod>2026-01-19</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6932,7 +6914,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/pricing</loc>
-    <lastmod>2026-01-19</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7041,12 +7023,6 @@
   <url>
     <loc>https://www.scnsoft.com/about/careers/microsoft-engineer</loc>
     <lastmod>2025-03-24</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.scnsoft.com/about/careers/support-engineer-english</loc>
-    <lastmod>2025-11-27</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7804,12 +7780,6 @@
     <loc>https://www.scnsoft.com/ar/it-operations/managed/security</loc>
     <lastmod>2026-01-23</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.scnsoft.com/about/careers/plc-beckhoff-twincat-developer</loc>
-    <lastmod>2025-11-27</lastmod>
-    <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
@@ -8804,7 +8774,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/finance/fintech/top-fintech-software-development-companies</loc>
-    <lastmod>2025-12-17</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8924,7 +8894,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/top-healthcare-software-development-companies</loc>
-    <lastmod>2025-12-16</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9296,7 +9266,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/blockchain/top-blockchain-development-companies</loc>
-    <lastmod>2025-12-17</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9589,19 +9559,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.scnsoft.com/about/careers/lead-servicenow-developer</loc>
-    <lastmod>2025-11-20</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.scnsoft.com/about/careers/senior-golang-backend-engineer</loc>
-    <lastmod>2025-11-20</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.scnsoft.com/about/careers/sharepoint-administrator</loc>
     <lastmod>2025-11-20</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
@@ -9615,12 +9573,6 @@
   <url>
     <loc>https://www.scnsoft.com/about/careers/senior-servicenow-consultant</loc>
     <lastmod>2025-11-20</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.scnsoft.com/about/careers/arabic-speaking-senior-business-analyst</loc>
-    <lastmod>2026-02-03</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10324,12 +10276,6 @@
     <loc>https://www.scnsoft.com/ar/healthcare/virtual-hospital</loc>
     <lastmod>2025-10-12</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.scnsoft.com/about/careers/solution-architect</loc>
-    <lastmod>2025-11-20</lastmod>
-    <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
@@ -11065,18 +11011,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.scnsoft.com/about/careers/it-cold-calling-specialist</loc>
-    <lastmod>2025-11-27</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.scnsoft.com/about/careers/l1-l2-support-administrative-tasks</loc>
-    <lastmod>2025-11-27</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.scnsoft.com/about/careers/lead-generation-specialist</loc>
     <lastmod>2025-11-27</lastmod>
     <changefreq>yearly</changefreq>
@@ -11101,20 +11035,8 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.scnsoft.com/about/careers/senior-network-engineer</loc>
-    <lastmod>2025-11-27</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.scnsoft.com/about/careers/middle-senior-go-developer</loc>
     <lastmod>2025-12-29</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.scnsoft.com/about/careers/clinical-leadership-consultant</loc>
-    <lastmod>2025-11-28</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11155,12 +11077,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.scnsoft.com/about/careers/network-analyst-engineer</loc>
-    <lastmod>2025-12-08</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.scnsoft.com/about/careers/middle-plus-senior-business-analyst-fintech</loc>
     <lastmod>2025-12-29</lastmod>
     <changefreq>yearly</changefreq>
@@ -11192,19 +11108,19 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/investment</loc>
-    <lastmod>2026-02-03</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/insurance</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/investment/about</loc>
-    <lastmod>2026-02-03</lastmod>
+    <lastmod>2026-02-05</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11290,12 +11206,6 @@
     <loc>https://www.scnsoft.com/insurance/artificial-intelligence/calculator</loc>
     <lastmod>2026-01-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.scnsoft.com/about/careers/senior-netsuite-administrator</loc>
-    <lastmod>2025-12-29</lastmod>
-    <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
@@ -11476,6 +11386,30 @@
     <loc>https://www.scnsoft.com/ar/investment/robo-advisor-development/calculator</loc>
     <lastmod>2026-02-04</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/ar/insurance/automation</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/ar/insurance/automation/calculator</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/about/careers</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/about-new/careers-new/vacancy</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
 </urlset>
