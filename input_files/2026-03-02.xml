@@ -2216,7 +2216,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ecommerce/portals</loc>
-    <lastmod>2026-02-12</lastmod>
+    <lastmod>2026-03-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11515,6 +11515,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.scnsoft.com/insurance/who-we-serve/insurtech-startups</loc>
+    <lastmod>2026-03-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.scnsoft.com/ar/insurance/health-insurance</loc>
     <lastmod>2026-02-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -11523,6 +11529,18 @@
   <url>
     <loc>https://www.scnsoft.com/ar/insurance/health-insurance/calculator</loc>
     <lastmod>2026-02-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/ar/insurance/auto-insurance-software</loc>
+    <lastmod>2026-03-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/ar/insurance/commercial</loc>
+    <lastmod>2026-03-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
