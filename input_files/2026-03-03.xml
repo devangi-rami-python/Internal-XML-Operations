@@ -4520,7 +4520,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/healthcare</loc>
-    <lastmod>2026-01-12</lastmod>
+    <lastmod>2026-03-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4898,7 +4898,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/insurance/software-development</loc>
-    <lastmod>2026-02-25</lastmod>
+    <lastmod>2026-03-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5954,7 +5954,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/saas</loc>
-    <lastmod>2026-02-19</lastmod>
+    <lastmod>2026-03-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6482,7 +6482,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/insurance/software-development</loc>
-    <lastmod>2026-02-16</lastmod>
+    <lastmod>2026-03-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7304,7 +7304,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/artificial-intelligence/software-development</loc>
-    <lastmod>2026-02-28</lastmod>
+    <lastmod>2026-03-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7790,7 +7790,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/insurance/software-development/health-insurance</loc>
-    <lastmod>2026-02-25</lastmod>
+    <lastmod>2026-03-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9752,7 +9752,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/care-management-software</loc>
-    <lastmod>2026-02-25</lastmod>
+    <lastmod>2026-03-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9859,8 +9859,8 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.scnsoft.com/ar/insurance/ai-claims</loc>
-    <lastmod>2026-02-24</lastmod>
+    <loc>https://www.scnsoft.com/ar/insurance/artificial-intelligence/claims</loc>
+    <lastmod>2026-03-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9883,8 +9883,8 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.scnsoft.com/ar/insurance/ai-underwriting</loc>
-    <lastmod>2026-02-24</lastmod>
+    <loc>https://www.scnsoft.com/ar/insurance/artificial-intelligence/underwriting</loc>
+    <lastmod>2026-03-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11102,7 +11102,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/insurance</loc>
-    <lastmod>2026-02-25</lastmod>
+    <lastmod>2026-03-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11359,6 +11359,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.scnsoft.com/healthcare/life-sciences-help-desk</loc>
+    <lastmod>2026-03-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.scnsoft.com/about/how-we-work/competency-coe</loc>
     <lastmod>2026-02-25</lastmod>
     <changefreq>yearly</changefreq>
@@ -11504,7 +11510,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/utilization-management-software</loc>
-    <lastmod>2026-02-27</lastmod>
+    <lastmod>2026-03-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11522,7 +11528,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/insurance/health-insurance</loc>
-    <lastmod>2026-02-28</lastmod>
+    <lastmod>2026-03-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11541,6 +11547,12 @@
   <url>
     <loc>https://www.scnsoft.com/ar/insurance/commercial</loc>
     <lastmod>2026-03-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/ar/insurance/commercial-property-insurance-software</loc>
+    <lastmod>2026-03-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
