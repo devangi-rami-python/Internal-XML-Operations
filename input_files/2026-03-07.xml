@@ -8306,7 +8306,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/pricing</loc>
-    <lastmod>2026-02-02</lastmod>
+    <lastmod>2026-03-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8582,7 +8582,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/insurance/commercial-insurance-software</loc>
-    <lastmod>2026-03-03</lastmod>
+    <lastmod>2026-03-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11546,25 +11546,31 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/insurance/auto-insurance-software</loc>
-    <lastmod>2026-03-01</lastmod>
+    <lastmod>2026-03-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/insurance/commercial</loc>
-    <lastmod>2026-03-01</lastmod>
+    <lastmod>2026-03-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/ar/insurance/commercial-property-insurance-software</loc>
-    <lastmod>2026-03-02</lastmod>
+    <lastmod>2026-03-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/insurance/crm/calculator</loc>
     <lastmod>2026-03-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/healthcare/secure-messaging/calculator</loc>
+    <lastmod>2026-03-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
