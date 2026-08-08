@@ -1214,7 +1214,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/about/partnerships/servicenow</loc>
-    <lastmod>2026-06-08</lastmod>
+    <lastmod>2026-08-06</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7598,7 +7598,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/care-coordination-software</loc>
-    <lastmod>2026-07-30</lastmod>
+    <lastmod>2026-08-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7850,7 +7850,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/care-management-software</loc>
-    <lastmod>2026-07-17</lastmod>
+    <lastmod>2026-08-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9169,6 +9169,18 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.scnsoft.com/healthcare/who-we-serve/oncology</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/healthcare/who-we-serve/asc</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.scnsoft.com/about/testimonials/fotaflo</loc>
     <lastmod>2025-10-09</lastmod>
     <changefreq>monthly</changefreq>
@@ -9805,8 +9817,8 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.scnsoft.com/about/testimonials/secure-defi</loc>
-    <lastmod>2025-12-18</lastmod>
+    <loc>https://www.scnsoft.com/about/testimonials/secure-defi-portal</loc>
+    <lastmod>2026-08-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
