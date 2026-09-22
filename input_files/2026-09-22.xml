@@ -164,7 +164,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/microsoft/sharepoint-microsoft-365</loc>
-    <lastmod>2026-08-28</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -422,7 +422,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/application/mobile/design</loc>
-    <lastmod>2026-09-08</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -680,7 +680,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/application/modernization</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -752,7 +752,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/application/mobile/development/xamarin</loc>
-    <lastmod>2026-08-25</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1034,7 +1034,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/image-analysis/machine-vision</loc>
-    <lastmod>2026-02-14</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1646,7 +1646,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/it-operations/help-desk</loc>
-    <lastmod>2026-09-15</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7262,7 +7262,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/security/pricing</loc>
-    <lastmod>2026-07-17</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8018,7 +8018,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/artificial-intelligence</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9062,7 +9062,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/artificial-intelligence/generative-ai</loc>
-    <lastmod>2026-09-17</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9128,7 +9128,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/artificial-intelligence/gateway-firewall</loc>
-    <lastmod>2026-09-17</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9152,7 +9152,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/artificial-intelligence/chatbot-development</loc>
-    <lastmod>2026-09-02</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9170,7 +9170,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/artificial-intelligence/sdlc-process</loc>
-    <lastmod>2026-08-14</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9272,7 +9272,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/insurance/artificial-intelligence/fraud-detection</loc>
-    <lastmod>2026-09-18</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9280,6 +9280,12 @@
     <loc>https://www.scnsoft.com/healthcare/ehr/precision-medicine/calculator</loc>
     <lastmod>2026-09-15</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.scnsoft.com/healthcare/artificial-intelligence/medication-review/calculator</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
