@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.scnsoft.com/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
@@ -20,13 +20,13 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-development/qt</loc>
-    <lastmod>2026-09-23</lastmod>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-development/services</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -38,7 +38,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-development/custom</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -68,7 +68,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-development/product</loc>
-    <lastmod>2026-10-18</lastmod>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -158,7 +158,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-testing/services/data-qa</loc>
-    <lastmod>2026-09-28</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -248,7 +248,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/microsoft/sharepoint/portals</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -428,7 +428,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/iot</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -578,7 +578,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/data/management</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -770,7 +770,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/digital-transformation/consulting-services</loc>
-    <lastmod>2026-09-23</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1244,7 +1244,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/about/climate-protection</loc>
-    <lastmod>2026-06-11</lastmod>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1316,13 +1316,13 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/iot/analytics</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/iot/solutions</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1334,19 +1334,19 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/iot/industrial</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/iot/smart-cities</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/iot/smart-connected-products</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1736,13 +1736,13 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/erp</loc>
-    <lastmod>2026-11-23</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/hr</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1868,7 +1868,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/elearning/lms/consulting</loc>
-    <lastmod>2026-08-13</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2210,7 +2210,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/elearning</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2372,7 +2372,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/about/alumni-referral-program</loc>
-    <lastmod>2026-10-01</lastmod>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2474,7 +2474,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/iot/industrial/smart-factory-demo</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2642,7 +2642,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/iot/testing</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2678,103 +2678,103 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-testing/services</loc>
-    <lastmod>2026-09-28</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-testing/microservices</loc>
-    <lastmod>2026-09-28</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-testing/services/managed</loc>
-    <lastmod>2026-07-23</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-testing/services/qa-consulting</loc>
-    <lastmod>2026-09-28</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-testing/services/qa-outsourcing</loc>
-    <lastmod>2026-08-29</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-testing/services/enterprise</loc>
-    <lastmod>2026-07-14</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-testing/services/quality-assessment</loc>
-    <lastmod>2026-07-13</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-testing/services/automated</loc>
-    <lastmod>2026-09-28</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-testing/services/mobile</loc>
-    <lastmod>2026-09-16</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-testing/services/web</loc>
-    <lastmod>2026-09-28</lastmod>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-testing/services/usability</loc>
-    <lastmod>2026-07-14</lastmod>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-testing/services/functional</loc>
-    <lastmod>2026-07-14</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-testing/services/performance</loc>
-    <lastmod>2026-07-14</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-testing/services/dw-and-bi</loc>
-    <lastmod>2026-09-28</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-testing/services/teams</loc>
-    <lastmod>2026-09-28</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-testing/services/digital</loc>
-    <lastmod>2026-07-13</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-testing/erp</loc>
-    <lastmod>2026-08-26</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2786,7 +2786,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-testing/qa-automation</loc>
-    <lastmod>2026-09-28</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3122,7 +3122,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-development/build-a-software</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3434,7 +3434,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-testing/services/hire-testers</loc>
-    <lastmod>2026-09-28</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3710,7 +3710,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-testing/end-to-end-testing</loc>
-    <lastmod>2026-09-28</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3782,7 +3782,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-testing/qa-process</loc>
-    <lastmod>2026-09-28</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3794,7 +3794,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-testing/services/integration</loc>
-    <lastmod>2026-09-28</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3848,7 +3848,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-testing/qa-process-improvement</loc>
-    <lastmod>2026-09-28</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3878,13 +3878,13 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-testing/services/regression</loc>
-    <lastmod>2026-09-28</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/financial-management</loc>
-    <lastmod>2026-10-06</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4088,7 +4088,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-testing/services/independent</loc>
-    <lastmod>2026-07-14</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4202,7 +4202,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-testing/types-of-bugs</loc>
-    <lastmod>2026-09-28</lastmod>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4220,7 +4220,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-testing/services/offshore</loc>
-    <lastmod>2026-09-28</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4238,7 +4238,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-testing/services/load</loc>
-    <lastmod>2026-09-28</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4292,7 +4292,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/software-testing/services/stress</loc>
-    <lastmod>2026-09-28</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4346,7 +4346,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/iot/asset-tracking</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4502,7 +4502,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/financial-management/corporate-finance/development</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5114,7 +5114,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/devops/outsourcing</loc>
-    <lastmod>2026-10-02</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6902,7 +6902,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/data/web-scraping</loc>
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7256,7 +7256,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/security</loc>
-    <lastmod>2026-10-02</lastmod>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7472,7 +7472,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/picture-archiving-and-communication-system</loc>
-    <lastmod>2026-11-19</lastmod>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7496,7 +7496,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/who-we-serve/home-healthcare</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7826,7 +7826,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/web-portals</loc>
-    <lastmod>2026-10-02</lastmod>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8192,7 +8192,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/about/how-we-hire</loc>
-    <lastmod>2026-11-20</lastmod>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9098,7 +9098,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/artificial-intelligence/patient-scheduling</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9170,19 +9170,19 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/who-we-serve/oncology</loc>
-    <lastmod>2026-08-21</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/who-we-serve/asc</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/who-we-serve/community-care</loc>
-    <lastmod>2026-11-16</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9386,7 +9386,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/healthcare/artificial-intelligence/visit-summaries-care-plans</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10592,7 +10592,7 @@
   </url>
   <url>
     <loc>https://www.scnsoft.com/about/testimonials/triad-fitness-group-llc</loc>
-    <lastmod>2026-11-12</lastmod>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
